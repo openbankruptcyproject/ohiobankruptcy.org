@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ohiobankruptcy.org -- Bankruptcy Information</title>
+  <subtitle>Free bankruptcy information and guides from the Open Bankruptcy Project</subtitle>
+  <link href="https://ohiobankruptcy.org/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://ohiobankruptcy.org/" rel="alternate" type="text/html"/>
+  <id>https://ohiobankruptcy.org/</id>
+  <updated>2026-04-08T00:00:00Z</updated>
+  <author>
+    <name>Open Bankruptcy Project</name>
+    <uri>https://openbankruptcyproject.org</uri>
+  </author>
+  <rights>Copyright 2026 Open Bankruptcy Project</rights>
+  <entry>
+    <title>Ohio Bankruptcy -- Chapter 7 &amp; 13 Filing Guide [2026]</title>
+    <link href="https://ohiobankruptcy.org/" rel="alternate"/>
+    <id>https://ohiobankruptcy.org/</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Free Ohio bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, Ohio exemptions, filing costs, means test, and what to expect in your case.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Bank Accounts and Bankruptcy in Ohio</title>
+    <link href="https://ohiobankruptcy.org/bank-account.html" rel="alternate"/>
+    <id>https://ohiobankruptcy.org/bank-account.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>How bankruptcy affects your bank account in Ohio. Levies, setoff rights, protecting deposits, and what to do before filing in N.D. Ohio and S.D. Ohio.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Can I Buy a Car While in Chapter 13 in Ohio?</title>
+    <link href="https://ohiobankruptcy.org/buy-car-chapter-13.html" rel="alternate"/>
+    <id>https://ohiobankruptcy.org/buy-car-chapter-13.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>How to buy a car during Chapter 13 bankruptcy in Ohio. Court motions, trustee approval, interest rates, and budget requirements.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Buying a House After Bankruptcy in Ohio</title>
+    <link href="https://ohiobankruptcy.org/buying-a-house.html" rel="alternate"/>
+    <id>https://ohiobankruptcy.org/buying-a-house.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>When and how you can buy a home after filing bankruptcy in Ohio. Waiting periods for FHA, VA, and conventional loans, credit rebuilding, and Ohio programs.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Car Leases and Bankruptcy in Ohio</title>
+    <link href="https://ohiobankruptcy.org/car-lease.html" rel="alternate"/>
+    <id>https://ohiobankruptcy.org/car-lease.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>What happens to your car lease in Ohio bankruptcy. Assume or reject, 60-day deadline, early termination fees, and practical options.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Chapter 13 Bankruptcy Eligibility in Ohio</title>
+    <link href="https://ohiobankruptcy.org/chapter-13-eligibility.html" rel="alternate"/>
+    <id>https://ohiobankruptcy.org/chapter-13-eligibility.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Chapter 13 eligibility requirements in Ohio. Debt limits, regular income, plan length, and requirements for filing in N.D. Ohio and S.D. Ohio.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Chapter 13 Payments in Ohio</title>
+    <link href="https://ohiobankruptcy.org/chapter-13-payments.html" rel="alternate"/>
+    <id>https://ohiobankruptcy.org/chapter-13-payments.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>How Chapter 13 payment amounts are calculated in Ohio. Disposable income, plan length, missed payments, and modification options in N.D. Ohio and S.D.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Chapter 13 Bankruptcy in Ohio -- Payment Plans, Timeline</title>
+    <link href="https://ohiobankruptcy.org/chapter-13.html" rel="alternate"/>
+    <id>https://ohiobankruptcy.org/chapter-13.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Guide to Chapter 13 bankruptcy in Ohio. Payment plan basics, timeline, 3-5 year commitment, and what to expect during the repayment process.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Chapter 7 Bankruptcy Eligibility in Ohio</title>
+    <link href="https://ohiobankruptcy.org/chapter-7-eligibility.html" rel="alternate"/>
+    <id>https://ohiobankruptcy.org/chapter-7-eligibility.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Do you qualify for Chapter 7 bankruptcy in Ohio? Means test, income limits, prior filing bars, and eligibility requirements for N.D. Ohio and S.D. Ohio.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Chapter 7 Bankruptcy in Ohio -- Eligibility, Exemptions, Timeline</title>
+    <link href="https://ohiobankruptcy.org/chapter-7.html" rel="alternate"/>
+    <id>https://ohiobankruptcy.org/chapter-7.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Complete guide to Chapter 7 bankruptcy in Ohio. Covers Ohio exemptions (homestead: $145,425), means test, timeline, and what to expect.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+</feed>
