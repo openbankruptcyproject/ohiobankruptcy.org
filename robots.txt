@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
-Sitemap: https://ohiobankruptcy.org/sitemap.xml
 
-Sitemap: https://ohiobankruptcy.org/feed.xml
+
+Sitemap: https://ohiobankruptcy.org/sitemapindex.xml
