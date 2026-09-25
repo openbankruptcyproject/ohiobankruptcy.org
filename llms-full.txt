@@ -52,9 +52,9 @@ Protecting Bank Deposits in Ohio
 
 In Chapter 7, the trustee can claim non-exempt cash in your bank accounts on the date of filing. In Ohio:
 
-Homestead exemption: $145,425 (does not protect cash)
+Homestead exemption: $182,625 (does not protect cash)
 
-Vehicle exemption: $4,060 (does not protect cash)
+Vehicle exemption: $5,025 (does not protect cash)
 
 Federal exemptions: If you elect federal exemptions, the wildcard exemption can protect cash deposits
 
@@ -338,9 +338,9 @@ Lenders want to see 2 years of stable employment. Consistent income documentatio
 
 Ohio Homestead Exemption
 
-When you do buy a home in Ohio, the state homestead exemption protects $145,425 in home equity from future creditors. This means:
+When you do buy a home in Ohio, the state homestead exemption protects $182,625 in home equity from future creditors. This means:
 
-Your home equity up to $145,425 is protected from judgment creditors
+Your home equity up to $182,625 is protected from judgment creditors
 
 If you ever need to file bankruptcy again, this equity is exempt from the Chapter 7 trustee
 
@@ -670,9 +670,9 @@ Check your eligibility with the 1328(f) Screener →
 
 Chapter 13 Advantages in Ohio
 
-Keep your home: Catch up on mortgage arrears while protecting up to $145,425 in equity
+Keep your home: Catch up on mortgage arrears while protecting up to $182,625 in equity
 
-Keep your car: Restructure auto loans (potential cramdown if older than 910 days) with $4,060 exemption protection
+Keep your car: Restructure auto loans (potential cramdown if older than 910 days) with $5,025 exemption protection
 
 No means test barrier: Unlike Chapter 7, high earners can file Chapter 13
 
@@ -808,7 +808,7 @@ What Gets Paid in a Chapter 13 Plan
 
 Debt TypeTreatment
 
-Mortgage arrearsPaid in full to cure default and keep home (homestead exemption: $145,425)
+Mortgage arrearsPaid in full to cure default and keep home (homestead exemption: $182,625)
 
 Car loanPaid through plan, possible cramdown if older than 910 days
 
@@ -936,7 +936,7 @@ $313
 
 Filing Fee
 
-$145,425
+$182,625
 
 Homestead Exemption
 
@@ -1008,7 +1008,7 @@ Chapter 13 plans last 3 to 5 years. If your income is below the Ohio median, you
 
 Can I keep my house in Chapter 13?
 
-Yes. One of the main benefits of Chapter 13 is the ability to keep your home and catch up on missed mortgage payments through your repayment plan. The automatic stay stops foreclosure proceedings immediately upon filing. Ohio's homestead exemption of $145,425 also applies.
+Yes. One of the main benefits of Chapter 13 is the ability to keep your home and catch up on missed mortgage payments through your repayment plan. The automatic stay stops foreclosure proceedings immediately upon filing. Ohio's homestead exemption of $182,625 also applies.
 
 What happens if my Chapter 13 is dismissed?
 
@@ -1119,11 +1119,11 @@ Ohio Exemption Snapshot
 
 If you qualify for Chapter 7, your exempt property is protected from liquidation:
 
-Homestead: $145,425
+Homestead: $182,625
 
-Vehicle: $4,060
+Vehicle: $5,025
 
-Federal exemptions: Ohio permits choosing federal exemptions as an alternative
+Federal exemptions: Not available in Ohio; Ohio filers use the state exemptions (Ohio Rev. Code 2329.662)
 
 Complete Ohio exemptions list →
 
@@ -1275,15 +1275,15 @@ Exemptions determine what property you keep.
 
 PropertyOhio Exemption
 
-Homestead$145,425
+Homestead$182,625
 
-Vehicle$4,000
+Vehicle$5,025
 
-Household goods$13,400 total ($625 per item)
+Household goods$16,850 total ($800 per item)
 
-Wildcard$1,325
+Wildcard$1,675
 
-Tools of trade$2,550
+Tools of trade$3,200
 
 Retirement (IRA/401k)Fully exempt
 
@@ -1319,7 +1319,7 @@ From filing to discharge, Chapter 7 typically takes 3-4 months. The 341 meeting 
 
 What property can I keep in Chapter 7 in Ohio?
 
-Ohio exemptions protect: homestead equity up to $145,425, vehicle equity up to $4,000, household goods up to $13,400 total ($625 per item), and retirement accounts are fully exempt. Full exemption details.
+Ohio exemptions protect: homestead equity up to $182,625, vehicle equity up to $5,025, household goods up to $16,850 total ($800 per item), and retirement accounts are fully exempt. Full exemption details.
 
 Check Your Eligibility
 
@@ -1396,13 +1396,13 @@ Above median: 5 years
 
 Saving Your Home
 
-Automatic stay stops foreclosure immediately. Catch up on missed payments over 3-5 years. Ohio's $145,425 homestead exemption protects equity.
+Automatic stay stops foreclosure immediately. Catch up on missed payments over 3-5 years. Ohio's $182,625 homestead exemption protects equity.
 
 Keeping your house guide →
 
 Keeping Your Car
 
-Stop repossession. Cramdown available for cars purchased 910+ days before filing. Ohio's $4,060 vehicle exemption.
+Stop repossession. Cramdown available for cars purchased 910+ days before filing. Ohio's $5,025 vehicle exemption.
 
 Keeping your car guide →
 
@@ -1480,11 +1480,11 @@ Ohio Exemptions
 
 PropertyAmount
 
-Homestead$145,425
+Homestead$182,625
 
-Vehicle$4,060
+Vehicle$5,025
 
-Wildcard$1,350
+Wildcard$1,675
 
 RetirementFully exempt
 
@@ -1546,23 +1546,23 @@ Home›Ohio Bankruptcy Exemptions for Cincinnati Filers›Bankruptcy Exemptions 
 
 Bankruptcy Exemptions for Cincinnati Filers
 
-Ohio filers can choose state or federal exemptions. Here is what Cincinnati residents can protect.
+Ohio filers use the state exemptions; Ohio does not allow the federal exemptions (Ohio Rev. Code 2329.662). Here is what Cincinnati residents can protect.
 
 Ohio State Exemptions
 
 PropertyAmountNotes
 
-Homestead$145,425Doubles for joint filers
+Homestead$182,625Doubles for joint filers
 
-Vehicle$4,060One motor vehicle
+Vehicle$5,025One motor vehicle
 
-Wildcard$1,350Any property
+Wildcard$1,675Any property
 
-Household goods$625/item$13,400 aggregate
+Household goods$800/item$16,850 aggregate
 
-Jewelry$1,700Aggregate
+Jewelry$2,125Aggregate
 
-Tools of trade$2,550
+Tools of trade$3,200
 
 RetirementFully exemptERISA plans
 
@@ -1576,7 +1576,7 @@ FAQ
 
 Homestead exemption?
 
-$145,425. Doubles for joint filers.
+$182,625. Doubles for joint filers.
 
 Can I use federal exemptions?
 
@@ -1584,7 +1584,7 @@ Yes. One set only, no mixing.
 
 Wildcard?
 
-$1,350 for any property.
+$1,675 for any property.
 
 Ohio Exemptions Explained for Cincinnati Filers
 
@@ -1612,7 +1612,7 @@ Life insurance cash value: Usually protected up to a cap.
 
 Public benefits: Social Security, unemployment, workers compensation, veterans benefits.
 
-If you own property that exceeds your exemption limit - say, a paid-off car worth $12,000 when your exemption protects only $4,000 - the Chapter 7 trustee has the right to sell it, pay you the exempt amount, and distribute the rest to your creditors. In practice, trustees often negotiate with the debtor to buy the non-exempt portion rather than actually liquidate. Alternatively, you can file Chapter 13 and pay the non-exempt value to unsecureds through your plan instead of surrendering the asset.
+If you own property that exceeds your exemption limit - say, a paid-off car worth $12,000 when your exemption protects only $5,025 - the Chapter 7 trustee has the right to sell it, pay you the exempt amount, and distribute the rest to your creditors. In practice, trustees often negotiate with the debtor to buy the non-exempt portion rather than actually liquidate. Alternatively, you can file Chapter 13 and pay the non-exempt value to unsecureds through your plan instead of surrendering the asset.
 
 Frequently Asked Questions
 
@@ -1688,11 +1688,11 @@ Property
 
 Can I keep my house?
 
-$145,425 homestead. Exemptions.
+$182,625 homestead. Exemptions.
 
 Can I keep my car?
 
-$4,060 vehicle exemption. Guide.
+$5,025 vehicle exemption. Guide.
 
 Retirement accounts?
 
@@ -1751,7 +1751,7 @@ S.D. Ohio
 
 Federal District
 
-$145,425
+$182,625
 
 Homestead Exemption
 
@@ -1797,15 +1797,15 @@ Ohio Exemptions
 
 PropertyExemption
 
-Homestead$145,425
+Homestead$182,625
 
-Vehicle$4,060
+Vehicle$5,025
 
-Wildcard$1,350
+Wildcard$1,675
 
 RetirementFully exempt
 
-Ohio filers can choose state or federal exemptions. Full guide →
+Ohio filers use the state exemptions; Ohio does not allow the federal exemptions (Ohio Rev. Code 2329.662). Full guide →
 
 Free Legal Help
 
@@ -1825,7 +1825,7 @@ Ch. 7: $338 + $1,000-$1,800. Ch. 13: $313 + $2,500-$4,000.
 
 Can I keep my house?
 
-$145,425 homestead exemption protects most homes.
+$182,625 homestead exemption protects most homes.
 
 Is there free help?
 
@@ -1909,11 +1909,11 @@ Exemptions
 
 PropertyAmount
 
-Homestead$145,425
+Homestead$182,625
 
-Vehicle$4,060
+Vehicle$5,025
 
-Wildcard$1,350
+Wildcard$1,675
 
 RetirementFully exempt
 
@@ -1935,7 +1935,7 @@ S.D. Ohio. 221 E 4th St, Cincinnati.
 
 Can I keep my house?
 
-$145,425 homestead exemption.
+$182,625 homestead exemption.
 
 Cincinnati Area
 
@@ -1993,11 +1993,11 @@ Exemptions
 
 PropertyAmount
 
-Homestead$145,425
+Homestead$182,625
 
-Vehicle$4,060
+Vehicle$5,025
 
-Wildcard$1,350
+Wildcard$1,675
 
 RetirementFully exempt
 
@@ -2019,7 +2019,7 @@ S.D. Ohio. 221 E 4th St, Cincinnati.
 
 Can I keep my house?
 
-$145,425 homestead exemption.
+$182,625 homestead exemption.
 
 Cincinnati Area
 
@@ -2079,11 +2079,11 @@ Exemptions
 
 PropertyAmount
 
-Homestead$145,425
+Homestead$182,625
 
-Vehicle$4,060
+Vehicle$5,025
 
-Wildcard$1,350
+Wildcard$1,675
 
 RetirementFully exempt
 
@@ -2105,7 +2105,7 @@ S.D. Ohio. 221 E 4th St, Cincinnati.
 
 Can I keep my house?
 
-$145,425 homestead exemption.
+$182,625 homestead exemption.
 
 Cincinnati Area
 
@@ -2163,11 +2163,11 @@ Exemptions
 
 PropertyAmount
 
-Homestead$145,425
+Homestead$182,625
 
-Vehicle$4,060
+Vehicle$5,025
 
-Wildcard$1,350
+Wildcard$1,675
 
 RetirementFully exempt
 
@@ -2189,7 +2189,7 @@ S.D. Ohio. 221 E 4th St, Cincinnati.
 
 Can I keep my house?
 
-$145,425 homestead exemption.
+$182,625 homestead exemption.
 
 Cincinnati Area
 
@@ -2349,7 +2349,7 @@ Saving Your Home in Cleveland
 
 If you are behind on your mortgage, Chapter 13 can stop foreclosure immediately through the automatic stay. Your repayment plan lets you catch up on missed payments over the life of the plan while continuing regular mortgage payments.
 
-Ohio's $145,425 homestead exemption protects your equity. In Chapter 13, you keep your home regardless of equity - you just need to pay unsecured creditors at least as much as they would receive in a Chapter 7 liquidation.
+Ohio's $182,625 homestead exemption protects your equity. In Chapter 13, you keep your home regardless of equity - you just need to pay unsecured creditors at least as much as they would receive in a Chapter 7 liquidation.
 
 Full guide to keeping your house →
 
@@ -2469,17 +2469,17 @@ Government fines and penalties
 
 Ohio Exemptions That Protect Your Property
 
-Ohio filers can choose between state and federal exemptions. Key Ohio state exemptions:
+Ohio filers use the state exemptions; Ohio does not allow the federal exemptions (Ohio Rev. Code 2329.662). Key Ohio state exemptions:
 
 PropertyExemption Amount
 
-Homestead$145,425
+Homestead$182,625
 
-Vehicle$4,060
+Vehicle$5,025
 
-Wildcard$1,350
+Wildcard$1,675
 
-Household goods$625 per item
+Household goods$800 per item
 
 Retirement accountsFully exempt
 
@@ -2517,7 +2517,7 @@ About 3-4 months from filing to discharge. The 341 meeting happens about 30 days
 
 Will I lose my car?
 
-Ohio's vehicle exemption protects $4,060 of equity. If your equity is under that limit, you keep it. Learn more.
+Ohio's vehicle exemption protects $5,025 of equity. If your equity is under that limit, you keep it. Learn more.
 
 Ohio Cities
 
@@ -2653,17 +2653,17 @@ Ohio State Exemptions
 
 Property TypeExemption AmountNotes
 
-Homestead$145,425Primary residence; doubles for married couples
+Homestead$182,625Primary residence; doubles for married couples
 
-Vehicle$4,060One motor vehicle
+Vehicle$5,025One motor vehicle
 
-Wildcard$1,350Any property of your choice
+Wildcard$1,675Any property of your choice
 
-Household goods$625 per item$13,400 aggregate limit
+Household goods$800 per item$16,850 aggregate limit
 
-Jewelry$1,700Aggregate limit
+Jewelry$2,125Aggregate limit
 
-Tools of trade$2,550Tools and implements
+Tools of trade$3,200Tools and implements
 
 Retirement (IRA/401k)Fully exemptERISA-qualified plans
 
@@ -2675,9 +2675,9 @@ Unemployment benefitsFully exemptOhio law protects
 
 State vs. Federal Exemptions
 
-Ohio allows you to choose between state and federal exemptions. You must use one complete set - you cannot mix and match.
+Ohio does not allow the federal exemptions (Ohio Rev. Code 2329.662). You must use the Ohio state exemptions.
 
-When state exemptions may be better: You have significant home equity (state homestead is $145,425 vs. federal $31,575).
+When state exemptions may be better: You have significant home equity (state homestead is $182,625 vs. federal $31,575).
 
 When federal exemptions may be better: You do not own a home and want to use the federal wildcard to protect other property.
 
@@ -2695,19 +2695,19 @@ Frequently Asked Questions
 
 What is the homestead exemption in Ohio?
 
-$145,425 of equity in your primary residence. Doubles for joint filers.
+$182,625 of equity in your primary residence. Doubles for joint filers.
 
 Can I choose federal exemptions?
 
-Yes. Ohio lets you choose state or federal, but you must use one set entirely.
+No. Ohio does not allow the federal exemptions (Ohio Rev. Code 2329.662).
 
 How much vehicle equity can I protect?
 
-$4,060 for one motor vehicle under Ohio state exemptions.
+$5,025 for one motor vehicle under Ohio state exemptions.
 
 What is the wildcard exemption?
 
-$1,350 that can be applied to any property not covered by other exemptions.
+$1,675 that can be applied to any property not covered by other exemptions.
 
 Ohio Cities
 
@@ -2773,11 +2773,11 @@ Property Questions
 
 Can I keep my house?
 
-Ohio's $145,425 homestead exemption protects most homes. In Chapter 13, you keep your home while catching up. Full guide.
+Ohio's $182,625 homestead exemption protects most homes. In Chapter 13, you keep your home while catching up. Full guide.
 
 Can I keep my car?
 
-Ohio protects $4,060 of vehicle equity. If you owe more than the car's value, equity is zero and it is fully protected. Full guide.
+Ohio protects $5,025 of vehicle equity. If you owe more than the car's value, equity is zero and it is fully protected. Full guide.
 
 What about retirement accounts?
 
@@ -2785,7 +2785,7 @@ Fully exempt. 401k, IRA, and pension cannot be taken by the trustee.
 
 What about my tax refund?
 
-Tax refunds are assets. Use Ohio's $1,350 wildcard exemption to protect some of it.
+Tax refunds are assets. Use Ohio's $1,675 wildcard exemption to protect some of it.
 
 Process Questions
 
@@ -2848,7 +2848,7 @@ N.D. Ohio
 
 Federal District
 
-$145,425
+$182,625
 
 Homestead Exemption
 
@@ -2906,17 +2906,17 @@ Cleveland Chapter 13 guide →
 
 Ohio Exemptions for Cleveland Filers
 
-Ohio allows bankruptcy filers to choose between state and federal exemptions. Ohio's state exemptions are often more generous for homeowners.
+Ohio bankruptcy filers use the state exemptions; Ohio does not allow the federal exemptions (Ohio Rev. Code 2329.662). Ohio's state exemptions are often more generous for homeowners.
 
 PropertyOhio Exemption
 
-Homestead$145,425
+Homestead$182,625
 
-Vehicle$4,060
+Vehicle$5,025
 
-Wildcard$1,350
+Wildcard$1,675
 
-Household goods$13,400 total ($625 per item)
+Household goods$16,850 total ($800 per item)
 
 Retirement (IRA/401k)Fully exempt
 
@@ -2958,7 +2958,7 @@ Chapter 7 filing fees are $338 and Chapter 13 filing fees are $313. Attorney fee
 
 Can I keep my house in Cleveland if I file bankruptcy?
 
-Ohio's homestead exemption protects up to $145,425 of equity in your home. If your equity is below that amount, you can keep your home in Chapter 7. In Chapter 13, you keep your home while catching up on missed payments. Learn more.
+Ohio's homestead exemption protects up to $182,625 of equity in your home. If your equity is below that amount, you can keep your home in Chapter 7. In Chapter 13, you keep your home while catching up on missed payments. Learn more.
 
 Is there free legal help for bankruptcy in Cleveland?
 
@@ -3040,7 +3040,7 @@ Worried about losing your car? Most Cleveland filers keep their vehicles. Here i
 
 Ohio's Vehicle Exemption
 
-Ohio protects $4,060 of equity in one motor vehicle.
+Ohio protects $5,025 of equity in one motor vehicle.
 
 Car worth $8,000, owe $6,000: Equity $2,000 - fully protected
 
@@ -3048,7 +3048,7 @@ Car worth $15,000, owe $15,000: Equity $0 - fully protected
 
 Car worth $12,000, owe nothing: Equity $12,000 - exceeds exemption
 
-You can also apply the $1,350 wildcard exemption to protect additional vehicle equity.
+You can also apply the $1,675 wildcard exemption to protect additional vehicle equity.
 
 Chapter 7: Reaffirmation and Redemption
 
@@ -3082,7 +3082,7 @@ Frequently Asked Questions
 
 Can I keep my car?
 
-Usually yes. Ohio's $4,060 exemption protects most cars. In Chapter 13 you always keep it.
+Usually yes. Ohio's $5,025 exemption protects most cars. In Chapter 13 you always keep it.
 
 What is a cramdown?
 
@@ -3132,7 +3132,7 @@ Facing foreclosure or worried about losing your home? Ohio's generous homestead 
 
 Ohio's Homestead Exemption
 
-Ohio protects $145,425 of equity in your primary residence. For married couples filing jointly, this doubles to $290,850.
+Ohio protects $182,625 of equity in your primary residence. For married couples filing jointly, this doubles to $365,250.
 
 Home worth $250,000, owe $180,000: Equity $70,000 - fully protected
 
@@ -3162,7 +3162,7 @@ Frequently Asked Questions
 
 Can I keep my house?
 
-Usually yes. $145,425 homestead exemption protects most homeowners. Chapter 13 lets you catch up on payments.
+Usually yes. $182,625 homestead exemption protects most homeowners. Chapter 13 lets you catch up on payments.
 
 Can bankruptcy stop foreclosure?
 
@@ -3310,11 +3310,11 @@ Ohio Exemptions
 
 PropertyExemption
 
-Homestead$145,425
+Homestead$182,625
 
-Vehicle$4,060
+Vehicle$5,025
 
-Wildcard$1,350
+Wildcard$1,675
 
 RetirementFully exempt
 
@@ -3340,7 +3340,7 @@ N.D. Ohio. Courthouse: 801 W Superior Ave, Cleveland.
 
 Can I keep my house?
 
-$145,425 homestead exemption protects most homes. Learn more.
+$182,625 homestead exemption protects most homes. Learn more.
 
 Is there free legal help?
 
@@ -3408,11 +3408,11 @@ Ohio Exemptions
 
 PropertyExemption
 
-Homestead$145,425
+Homestead$182,625
 
-Vehicle$4,060
+Vehicle$5,025
 
-Wildcard$1,350
+Wildcard$1,675
 
 RetirementFully exempt
 
@@ -3444,7 +3444,7 @@ Ch. 7: $338 + $1,000-$1,800. Ch. 13: $313 + $2,500-$4,000. Details.
 
 Can I keep my house?
 
-Ohio's $145,425 homestead exemption protects most homes. Learn more.
+Ohio's $182,625 homestead exemption protects most homes. Learn more.
 
 Is there free legal help?
 
@@ -3510,11 +3510,11 @@ Ohio Exemptions
 
 PropertyExemption
 
-Homestead$145,425
+Homestead$182,625
 
-Vehicle$4,060
+Vehicle$5,025
 
-Wildcard$1,350
+Wildcard$1,675
 
 RetirementFully exempt
 
@@ -3540,7 +3540,7 @@ N.D. Ohio. Courthouse: 801 W Superior Ave, Cleveland.
 
 Can I keep my house?
 
-$145,425 homestead exemption protects most homes. Learn more.
+$182,625 homestead exemption protects most homes. Learn more.
 
 Is there free legal help?
 
@@ -3608,11 +3608,11 @@ Ohio Exemptions
 
 PropertyExemption
 
-Homestead$145,425
+Homestead$182,625
 
-Vehicle$4,060
+Vehicle$5,025
 
-Wildcard$1,350
+Wildcard$1,675
 
 RetirementFully exempt
 
@@ -3638,7 +3638,7 @@ N.D. Ohio. Courthouse: 801 W Superior Ave, Cleveland.
 
 Can I keep my house?
 
-$145,425 homestead exemption protects most homes. Learn more.
+$182,625 homestead exemption protects most homes. Learn more.
 
 Is there free legal help?
 
@@ -3706,15 +3706,15 @@ Ohio Exemptions
 
 PropertyExemption
 
-Homestead$145,425
+Homestead$182,625
 
-Vehicle$4,060
+Vehicle$5,025
 
-Wildcard$1,350
+Wildcard$1,675
 
 RetirementFully exempt
 
-Ohio filers can choose state or federal exemptions. Full exemptions guide →
+Ohio filers use the state exemptions; Ohio does not allow the federal exemptions (Ohio Rev. Code 2329.662). Full exemptions guide →
 
 Cost of Filing
 
@@ -3742,7 +3742,7 @@ Chapter 7: $338 + $1,000-$1,800. Chapter 13: $313 + $2,500-$4,000. Details.
 
 Can I keep my house?
 
-Ohio's $145,425 homestead exemption protects most homes. Learn more.
+Ohio's $182,625 homestead exemption protects most homes. Learn more.
 
 Is there free legal help?
 
@@ -3808,11 +3808,11 @@ Ohio Exemptions
 
 PropertyExemption
 
-Homestead$145,425
+Homestead$182,625
 
-Vehicle$4,060
+Vehicle$5,025
 
-Wildcard$1,350
+Wildcard$1,675
 
 RetirementFully exempt
 
@@ -3844,7 +3844,7 @@ Ch. 7: $338 + $1,000-$1,800. Ch. 13: $313 + $2,500-$4,000.
 
 Can I keep my house?
 
-$145,425 homestead exemption protects most homes. Learn more.
+$182,625 homestead exemption protects most homes. Learn more.
 
 Is there free legal help?
 
@@ -3990,7 +3990,7 @@ Above median: 5 years
 
 Saving Your Home
 
-The automatic stay stops foreclosure immediately. Catch up on missed payments over 3-5 years. Ohio's $145,425 homestead exemption protects your equity.
+The automatic stay stops foreclosure immediately. Catch up on missed payments over 3-5 years. Ohio's $182,625 homestead exemption protects your equity.
 
 Keeping your house guide →
 
@@ -4088,11 +4088,11 @@ Ohio Exemptions
 
 PropertyAmount
 
-Homestead$145,425
+Homestead$182,625
 
-Vehicle$4,060
+Vehicle$5,025
 
-Wildcard$1,350
+Wildcard$1,675
 
 RetirementFully exempt
 
@@ -4128,7 +4128,7 @@ How long does it take?
 
 Will I lose my car?
 
-Ohio's $4,060 vehicle exemption protects most cars. Learn more.
+Ohio's $5,025 vehicle exemption protects most cars. Learn more.
 
 Ohio Cities
 
@@ -4242,23 +4242,23 @@ Home›Ohio Bankruptcy Exemptions for Columbus Filers - What You Can Keep›Bank
 
 Bankruptcy Exemptions for Columbus Filers
 
-Ohio filers can choose between state and federal exemptions. Here is what Columbus residents can protect.
+Ohio filers use the state exemptions; Ohio does not allow the federal exemptions (Ohio Rev. Code 2329.662). Here is what Columbus residents can protect.
 
 Ohio State Exemptions
 
 PropertyAmountNotes
 
-Homestead$145,425Doubles for joint filers
+Homestead$182,625Doubles for joint filers
 
-Vehicle$4,060One motor vehicle
+Vehicle$5,025One motor vehicle
 
-Wildcard$1,350Any property
+Wildcard$1,675Any property
 
-Household goods$625/item$13,400 aggregate
+Household goods$800/item$16,850 aggregate
 
-Jewelry$1,700Aggregate
+Jewelry$2,125Aggregate
 
-Tools of trade$2,550
+Tools of trade$3,200
 
 RetirementFully exemptERISA plans
 
@@ -4272,15 +4272,15 @@ FAQ
 
 What is the homestead exemption?
 
-$145,425 of equity in your home. Doubles for joint filers.
+$182,625 of equity in your home. Doubles for joint filers.
 
 Can I choose federal exemptions?
 
-Yes. One set or the other, no mixing.
+No. Ohio does not allow the federal exemptions (Ohio Rev. Code 2329.662).
 
 What is the wildcard?
 
-$1,350 applied to any property.
+$1,675 applied to any property.
 
 Ohio Cities
 
@@ -4340,11 +4340,11 @@ Property
 
 Can I keep my house?
 
-$145,425 homestead exemption. Guide.
+$182,625 homestead exemption. Guide.
 
 Can I keep my car?
 
-$4,060 vehicle exemption. Guide.
+$5,025 vehicle exemption. Guide.
 
 Retirement accounts?
 
@@ -4403,7 +4403,7 @@ S.D. Ohio
 
 Federal District
 
-$145,425
+$182,625
 
 Homestead Exemption
 
@@ -4451,17 +4451,17 @@ Columbus Chapter 13 guide →
 
 Ohio Exemptions for Columbus Filers
 
-Ohio filers can choose between state and federal exemptions.
+Ohio filers use the state exemptions; Ohio does not allow the federal exemptions (Ohio Rev. Code 2329.662).
 
 PropertyOhio Exemption
 
-Homestead$145,425
+Homestead$182,625
 
-Vehicle$4,060
+Vehicle$5,025
 
-Wildcard$1,350
+Wildcard$1,675
 
-Household goods$13,400 total ($625/item)
+Household goods$16,850 total ($800/item)
 
 RetirementFully exempt
 
@@ -4495,7 +4495,7 @@ Ch. 7: $338 + $1,000-$1,800 attorney. Ch. 13: $313 + $2,500-$4,000. Details.
 
 Can I keep my house?
 
-Ohio's $145,425 homestead exemption protects most homes. Learn more.
+Ohio's $182,625 homestead exemption protects most homes. Learn more.
 
 Is there free legal help?
 
@@ -4562,11 +4562,11 @@ Home›Keep Your Car in Bankruptcy - Columbus, Ohio Guide›Keeping Your Car in 
 
 Keeping Your Car in Bankruptcy - Columbus, Ohio
 
-Most Columbus filers keep their vehicles. Ohio's $4,060 exemption plus reaffirmation and cramdown options protect your car.
+Most Columbus filers keep their vehicles. Ohio's $5,025 exemption plus reaffirmation and cramdown options protect your car.
 
-Ohio's $4,060 Vehicle Exemption
+Ohio's $5,025 Vehicle Exemption
 
-Equity = car's value minus what you owe. If equity is under $4,060, you keep the car. Add the $1,350 wildcard for extra protection.
+Equity = car's value minus what you owe. If equity is under $5,025, you keep the car. Add the $1,675 wildcard for extra protection.
 
 Chapter 7 Options
 
@@ -4592,7 +4592,7 @@ FAQ
 
 Can I keep my car?
 
-Usually yes. $4,060 exemption covers most situations.
+Usually yes. $5,025 exemption covers most situations.
 
 What is cramdown?
 
@@ -4632,11 +4632,11 @@ Home›Keep Your House in Bankruptcy - Columbus, Ohio Guide›Keeping Your House
 
 Keeping Your House in Bankruptcy - Columbus, Ohio
 
-Ohio's $145,425 homestead exemption and Chapter 13 foreclosure defense protect most Columbus homeowners.
+Ohio's $182,625 homestead exemption and Chapter 13 foreclosure defense protect most Columbus homeowners.
 
 Ohio's Homestead Exemption
 
-$145,425 of equity protected. Doubles for joint filers ($290,850). Equity = home value minus mortgage balance.
+$182,625 of equity protected. Doubles for joint filers ($365,250). Equity = home value minus mortgage balance.
 
 Chapter 7
 
@@ -4658,7 +4658,7 @@ FAQ
 
 Can I keep my house?
 
-Usually yes. $145,425 exemption protects most homes.
+Usually yes. $182,625 exemption protects most homes.
 
 Can bankruptcy stop foreclosure?
 
@@ -4848,11 +4848,11 @@ Ohio Exemptions
 
 PropertyExemption
 
-Homestead$145,425
+Homestead$182,625
 
-Vehicle$4,060
+Vehicle$5,025
 
-Wildcard$1,350
+Wildcard$1,675
 
 RetirementFully exempt
 
@@ -4876,7 +4876,7 @@ S.D. Ohio. 85 Marconi Blvd, Columbus.
 
 Can I keep my house?
 
-$145,425 homestead exemption. Details.
+$182,625 homestead exemption. Details.
 
 Columbus Area
 
@@ -4936,11 +4936,11 @@ Exemptions
 
 PropertyAmount
 
-Homestead$145,425
+Homestead$182,625
 
-Vehicle$4,060
+Vehicle$5,025
 
-Wildcard$1,350
+Wildcard$1,675
 
 RetirementFully exempt
 
@@ -4962,7 +4962,7 @@ S.D. Ohio. 85 Marconi Blvd, Columbus.
 
 Can I keep my house?
 
-$145,425 homestead. Details.
+$182,625 homestead. Details.
 
 Columbus Area
 
@@ -5022,11 +5022,11 @@ Exemptions
 
 PropertyAmount
 
-Homestead$145,425
+Homestead$182,625
 
-Vehicle$4,060
+Vehicle$5,025
 
-Wildcard$1,350
+Wildcard$1,675
 
 RetirementFully exempt
 
@@ -5048,7 +5048,7 @@ S.D. Ohio. 85 Marconi Blvd, Columbus.
 
 Can I keep my house?
 
-$145,425 homestead. Details.
+$182,625 homestead. Details.
 
 Columbus Area
 
@@ -5108,11 +5108,11 @@ Exemptions
 
 PropertyAmount
 
-Homestead$145,425
+Homestead$182,625
 
-Vehicle$4,060
+Vehicle$5,025
 
-Wildcard$1,350
+Wildcard$1,675
 
 RetirementFully exempt
 
@@ -5134,7 +5134,7 @@ S.D. Ohio. 85 Marconi Blvd, Columbus.
 
 Can I keep my house?
 
-$145,425 homestead. Details.
+$182,625 homestead. Details.
 
 Columbus Area
 
@@ -5194,11 +5194,11 @@ Exemptions
 
 PropertyAmount
 
-Homestead$145,425
+Homestead$182,625
 
-Vehicle$4,060
+Vehicle$5,025
 
-Wildcard$1,350
+Wildcard$1,675
 
 RetirementFully exempt
 
@@ -5220,7 +5220,7 @@ S.D. Ohio. 85 Marconi Blvd, Columbus.
 
 Can I keep my house?
 
-$145,425 homestead. Details.
+$182,625 homestead. Details.
 
 Columbus Area
 
@@ -5280,11 +5280,11 @@ Exemptions
 
 PropertyAmount
 
-Homestead$145,425
+Homestead$182,625
 
-Vehicle$4,060
+Vehicle$5,025
 
-Wildcard$1,350
+Wildcard$1,675
 
 RetirementFully exempt
 
@@ -5308,7 +5308,7 @@ S.D. Ohio. 85 Marconi Blvd, Columbus.
 
 Can I keep my house?
 
-$145,425 homestead. Details.
+$182,625 homestead. Details.
 
 Columbus Area
 
@@ -5382,7 +5382,7 @@ Income increase - No longer pass the means test for Chapter 7, convert to Chapte
 
 Property at risk - Chapter 7 trustee identifies non-exempt property, convert to Chapter 13 to protect it
 
-Mortgage arrears - Need Chapter 13's structured repayment to catch up on missed mortgage payments and keep your home (homestead exemption: $145,425)
+Mortgage arrears - Need Chapter 13's structured repayment to catch up on missed mortgage payments and keep your home (homestead exemption: $182,625)
 
 Plan failure - Unable to complete Chapter 13 plan, convert to Chapter 7 for immediate discharge
 
@@ -5669,11 +5669,11 @@ Filing bankruptcy stops all of these through the automatic stay. Pre-existing ju
 
 Ohio Exemptions Relevant to Credit Card Debt
 
-Homestead: $145,425 - protects home equity from credit card judgment liens
+Homestead: $182,625 - protects home equity from credit card judgment liens
 
-Vehicle: $4,060
+Vehicle: $5,025
 
-Federal exemptions: Available in Ohio as an alternative to state exemptions
+Federal exemptions: Not available in Ohio; Ohio filers use the state exemptions (Ohio Rev. Code 2329.662)
 
 Full Ohio exemptions guide →
 
@@ -6139,9 +6139,9 @@ This is particularly important in Ohio where both spouses may be on the mortgage
 
 Ohio Property Considerations
 
-Homestead exemption: $145,425 - the bankruptcy and divorce courts both consider home equity
+Homestead exemption: $182,625 - the bankruptcy and divorce courts both consider home equity
 
-Vehicle exemption: $4,060
+Vehicle exemption: $5,025
 
 Federal exemptions available: Ohio allows choosing federal exemptions, which may be better depending on your assets
 
@@ -6303,11 +6303,11 @@ Ohio Exemption Quick Reference
 
 When you complete your schedules, you will need to claim exemptions to protect your property:
 
-Homestead: $145,425
+Homestead: $182,625
 
-Vehicle: $4,060
+Vehicle: $5,025
 
-Federal exemptions: Ohio allows you to choose between state and federal exemption systems
+Federal exemptions: Ohio does not allow the federal exemption system (Ohio Rev. Code 2329.662)
 
 For a complete list, see the Ohio exemptions page.
 
@@ -6580,11 +6580,11 @@ Can I Keep My Jewelry in Ohio Bankruptcy?
 
 Your engagement ring, wedding band, and other jewelry may be protected by Ohio exemptions. Here is what the law says and how values are determined.
 
-Quick answer: Ohio exempts up to $1,875 per item in jewelry under ORC 2329.66(A)(3)(a). This is a per-item limit, so each piece of jewelry is independently protected up to this amount. Ohio does not allow federal exemptions, so this state exemption is your only option.
+Quick answer: Ohio exempts up to $2,125 in total in jewelry under ORC 2329.66(A)(4)(b). This is an aggregate limit, so all of your jewelry together is protected up to this amount. Ohio does not allow federal exemptions, so this state exemption is your only option.
 
 Ohio Jewelry Exemption Details
 
-Ohio exempts up to $1,875 per item in jewelry under ORC 2329.66(A)(3)(a). This is a per-item limit, so each piece of jewelry is independently protected up to this amount. Ohio does not allow federal exemptions, so this state exemption is your only option.
+Ohio exempts up to $2,125 in total in jewelry under ORC 2329.66(A)(4)(b). This is an aggregate limit, so all of your jewelry together is protected up to this amount. Ohio does not allow federal exemptions, so this state exemption is your only option.
 
 The exemption amount is based on the jewelry's replacement value - what a comparable item would cost at retail, not what a pawnshop or jeweler would pay you. In practice, most everyday jewelry (wedding rings, watches, earrings) falls well within the exemption limits.
 
@@ -6624,17 +6624,17 @@ Chapter 13: In Chapter 13, you keep all your property. Instead of surrendering j
 
 Negotiate with trustee: You may be able to pay the trustee the non-exempt value in cash to keep the jewelry - called "buying back" the asset from the estate.
 
-Federal exemptions: If Ohio allows the federal exemptions (11 U.S.C. 522(d)), you may get a higher jewelry exemption ($2,125) plus a significant wildcard ($1,675 + up to $15,800 of unused homestead).
+Federal exemptions: Ohio does not allow the federal exemptions (11 U.S.C. 522(d); Ohio Rev. Code 2329.662), so the federal jewelry and wildcard amounts do not apply to Ohio filers.
 
 Frequently Asked Questions
 
 Can I keep my engagement ring in Ohio bankruptcy?
 
-It depends on the ring's value and Ohio's exemptions. $1,875 per item jewelry exemption (ORC 2329.66(A)(3)(a)). If your ring's value is below the exemption limit, you can keep it. If it exceeds the limit, you may need to use additional exemptions (like a wildcard) to protect it.
+It depends on the ring's value and Ohio's exemptions. $2,125 aggregate jewelry exemption (ORC 2329.66(A)(4)(b)). If your ring's value is below the exemption limit, you can keep it. If it exceeds the limit, you may need to use additional exemptions (like a wildcard) to protect it.
 
 What is the jewelry exemption in Ohio?
 
-$1,875 per item jewelry exemption (ORC 2329.66(A)(3)(a)). This applies to all jewelry including engagement rings, wedding bands, watches, and other personal adornment. Values are based on resale/liquidation value, not what you paid.
+$2,125 aggregate jewelry exemption (ORC 2329.66(A)(4)(b)). This applies to all jewelry including engagement rings, wedding bands, watches, and other personal adornment. Values are based on resale/liquidation value, not what you paid.
 
 How is jewelry valued in bankruptcy?
 
@@ -6898,13 +6898,13 @@ Ohio requires filers to use state exemptions - you cannot choose the federal exe
 
 Ohio State Exemptions - Full List
 
-Homestead - $145,425
+Homestead - $182,625
 
-Ohio's homestead exemption protects up to $145,425 of equity in your primary residence. For married couples filing jointly, the exemption doubles. Ohio does not allow filers to use federal exemptions.
+Ohio's homestead exemption protects up to $182,625 of equity in your primary residence. For married couples filing jointly, the exemption doubles. Ohio does not allow filers to use federal exemptions.
 
 ORC 2329.66(A)(1)(b)
 
-Motor Vehicle - $4,000
+Motor Vehicle - $5,025
 
 Protects equity in one motor vehicle up to the exemption limit. If you owe more than the car is worth (you are "underwater"), there is no equity to protect and the exemption is not needed.
 
@@ -6912,15 +6912,15 @@ Other Ohio Exemptions
 
 PropertyAmount
 
-Household goods, furnishings$13,400 total ($625 per item)
+Household goods, furnishings$16,850 total ($800 per item)
 
 ClothingIncluded in household goods
 
-Tools of trade$2,550
+Tools of trade$3,200
 
-Jewelry$1,700
+Jewelry$2,125
 
-Wildcard$1,325
+Wildcard$1,675
 
 Retirement accounts (IRA, 401k, pension)Fully exempt
 
@@ -6932,17 +6932,17 @@ Public assistance benefitsFully exempt
 
 Special Notes
 
-Ohio requires filers to use state exemptions. The $145,425 homestead exemption was significantly increased in recent years and is now above the national median.
+Ohio requires filers to use state exemptions. The $182,625 homestead exemption was significantly increased in recent years and is now above the national median.
 
 Frequently Asked Questions
 
 What is the Ohio homestead exemption?
 
-Ohio's homestead exemption protects up to $145,425 of equity in your primary residence. For married couples filing jointly, the exemption doubles. Ohio does not allow filers to use federal exemptions.
+Ohio's homestead exemption protects up to $182,625 of equity in your primary residence. For married couples filing jointly, the exemption doubles. Ohio does not allow filers to use federal exemptions.
 
 How much vehicle equity can I protect in Ohio?
 
-Ohio's motor vehicle exemption is $4,000. If your car equity is within that limit, you keep it in Chapter 7.
+Ohio's motor vehicle exemption is $5,025. If your car equity is within that limit, you keep it in Chapter 7.
 
 Does Ohio allow federal exemptions?
 
@@ -7013,11 +7013,11 @@ Chapter 7 filing fee is $338 and Chapter 13 is $313. Attorney fees typically ran
 
 Will I lose my house if I file bankruptcy in Ohio?
 
-Ohio's homestead exemption protects up to $145,425 of equity in your home. In Chapter 13, you can keep your home and catch up on missed mortgage payments through your plan. Most homeowners keep their homes in bankruptcy.
+Ohio's homestead exemption protects up to $182,625 of equity in your home. In Chapter 13, you can keep your home and catch up on missed mortgage payments through your plan. Most homeowners keep their homes in bankruptcy.
 
 Can I keep my car in bankruptcy in Ohio?
 
-Ohio protects $4,000 in vehicle equity. If your car equity is within the exemption limit, you keep it in Chapter 7. In Chapter 13, you can keep your car and catch up on payments through your plan.
+Ohio protects $5,025 in vehicle equity. If your car equity is within the exemption limit, you keep it in Chapter 7. In Chapter 13, you can keep your car and catch up on payments through your plan.
 
 How long does bankruptcy take?
 
@@ -7331,7 +7331,7 @@ Disposable Income
 Income remaining after subtracting allowed expenses. In Chapter 13, disposable income determines your plan payment amount.
 
 Exemptions
-Laws that protect specific property from being taken by the trustee in Chapter 7 or reduce what you pay in Chapter 13. Ohio homestead exemption: $145,425; vehicle: $4,060.
+Laws that protect specific property from being taken by the trustee in Chapter 7 or reduce what you pay in Chapter 13. Ohio homestead exemption: $182,625; vehicle: $5,025.
 
 Fraudulent Transfer
 A transfer of property made to hinder, delay, or defraud creditors. The trustee can recover such transfers made within 2 years before filing (or longer under state law).
@@ -7379,7 +7379,7 @@ Unsecured Debt
 A debt not backed by collateral, such as credit cards, medical bills, and personal loans. Generally dischargeable in bankruptcy.
 
 Wildcard Exemption
-An exemption that can be applied to any property type. Available under both state and federal exemption systems in Ohio.
+An exemption that can be applied to any property type. Ohio's is in Ohio Rev. Code 2329.66(A)(18); the federal wildcard is not available in Ohio.
 
 Frequently Asked Questions
 
@@ -7616,7 +7616,7 @@ You are not alone. Ohio is one of the highest-volume bankruptcy states in the na
 Read the FAQ
 Check Your Eligibility
 
-$145,425
+$182,625
 
 Homestead Exemption
 
@@ -7694,17 +7694,17 @@ Covers Columbus, Cincinnati, and Dayton.
 
 Ohio Exemptions at a Glance
 
-Ohio's homestead exemption protects up to $145,425 of equity in your primary residence. For married couples filing jointly, the exemption doubles. Ohio allows filers to choose between state and federal exemptions.
+Ohio's homestead exemption protects up to $182,625 of equity in your primary residence. For married couples filing jointly, the exemption doubles. Ohio does not allow filers to use the federal exemptions (Ohio Rev. Code 2329.662).
 
 PropertyOhio Exemption
 
-Homestead$145,425
+Homestead$182,625
 
-Vehicle$4,060
+Vehicle$5,025
 
-Household goods$13,400 total ($625 per item)
+Household goods$16,850 total ($800 per item)
 
-Wildcard$1,350
+Wildcard$1,675
 
 Retirement (IRA/401k)Fully exempt
 
@@ -7734,7 +7734,7 @@ Chapter 7 filing fees are $338 and Chapter 13 filing fees are $313. Attorney fee
 
 Will I lose my house if I file bankruptcy in Ohio?
 
-Ohio's homestead exemption protects up to $145,425 of equity in your home. If your equity is below that amount, you can keep your home in Chapter 7. In Chapter 13, you can keep your home while catching up on missed payments through your repayment plan. See all exemptions.
+Ohio's homestead exemption protects up to $182,625 of equity in your home. If your equity is below that amount, you can keep your home in Chapter 7. In Chapter 13, you can keep your home while catching up on missed payments through your repayment plan. See all exemptions.
 
 How long does bankruptcy take?
 
@@ -7986,9 +7986,9 @@ Even when a judgment is discharged, the lien it created on your property may sur
 
 How It Works in Ohio
 
-Home: If your home equity minus the judgment lien and any mortgages is less than the $145,425 homestead exemption, the lien impairs your exemption and can be avoided
+Home: If your home equity minus the judgment lien and any mortgages is less than the $182,625 homestead exemption, the lien impairs your exemption and can be avoided
 
-Vehicle: Same analysis using the $4,060 vehicle exemption
+Vehicle: Same analysis using the $5,025 vehicle exemption
 
 Other property: Any exempt property with an impairing judgment lien qualifies
 
@@ -8016,7 +8016,7 @@ Yes. Most money judgments based on unsecured debt (credit cards, medical bills, 
 
 Can I remove a judgment lien from my property?
 
-Yes. Under 11 U.S.C. section 522(f), you can avoid (remove) a judicial lien on your property to the extent it impairs your bankruptcy exemptions. In Ohio, this is commonly used to remove judgment liens from homes (homestead exemption: $145,425) and vehicles (exemption: $4,060).
+Yes. Under 11 U.S.C. section 522(f), you can avoid (remove) a judicial lien on your property to the extent it impairs your bankruptcy exemptions. In Ohio, this is commonly used to remove judgment liens from homes (homestead exemption: $182,625) and vehicles (exemption: $5,025).
 
 Does the judgment creditor have to stop collecting?
 
@@ -8420,7 +8420,7 @@ File a new bankruptcy: If eligible under 11 U.S.C. section 727(a)(8) (Chapter 7:
 
 Ohio-Specific Considerations
 
-Ohio allows federal exemptions. The federal motor vehicle exemption ($5,025) or Ohio's state motor vehicle exemption ($4,450 under Ohio Rev. Code 2329.66(A)(2)) are similar. The federal wildcard ($1,675 plus unused homestead) can provide additional vehicle protection. Ohio courts in both N.D. Ohio and S.D. Ohio review reaffirmation agreements. The 60-day rescission period applies. Ohio Consumer Sales Practices Act provides additional protections.
+Ohio does not allow the federal exemptions (Ohio Rev. Code 2329.662). Ohio's state motor vehicle exemption is $5,025 under Ohio Rev. Code 2329.66(A)(2), and the Ohio wildcard ($1,675 under Ohio Rev. Code 2329.66(A)(18)) can provide additional vehicle protection. Ohio courts in both N.D. Ohio and S.D. Ohio review reaffirmation agreements. The 60-day rescission period applies. Ohio Consumer Sales Practices Act provides additional protections.
 
 Common Reaffirmation Regrets
 
@@ -9041,9 +9041,9 @@ Rollover amounts from an ERISA plan into an IRA retain their unlimited ERISA pro
 
 Ohio-Specific Retirement Protections
 
-Ohio allows filers to choose federal exemptions, making the federal IRA exemption ($1,711,975) available. ERISA-qualified plans are 100% exempt under both state and federal law. Under Ohio Rev. Code 2329.66(A)(10), Ohio exempts IRAs, 401(k)s, 403(b)s, and other retirement accounts. Ohio PERS (Public Employees Retirement System), STRS (State Teachers), and OP&F (Police & Fire) benefits are fully exempt. The federal vs. state exemption choice affects overall asset protection strategy.
+Ohio does not allow the federal exemptions (Ohio Rev. Code 2329.662), but 11 U.S.C. 522(b)(3)(C) still protects tax-exempt retirement funds, with IRAs capped at $1,711,975. ERISA-qualified plans are 100% exempt under both state and federal law. Under Ohio Rev. Code 2329.66(A)(10), Ohio exempts IRAs, 401(k)s, 403(b)s, and other retirement accounts. Ohio PERS (Public Employees Retirement System), STRS (State Teachers), and OP&F (Police & Fire) benefits are fully exempt. The federal vs. state exemption choice affects overall asset protection strategy.
 
-Important: Ohio uses state or federal exemptions. If you have a choice between state and federal exemptions, compare the total exemption picture - retirement is just one factor.
+Important: Ohio uses state exemptions only (Ohio Rev. Code 2329.662). If you have a choice between state and federal exemptions, compare the total exemption picture - retirement is just one factor.
 
 The Biggest Mistake: Cashing Out Retirement
 
@@ -9199,7 +9199,7 @@ Lien stripping is available. If the home value is below the first mortgage balan
 
 Ohio Homestead Exemption Impact
 
-The Ohio homestead exemption of $145,425 protects your home equity from creditors. In a lien stripping scenario, the exemption is less relevant because the home is underwater - but it becomes critical if property values recover.
+The Ohio homestead exemption of $182,625 protects your home equity from creditors. In a lien stripping scenario, the exemption is less relevant because the home is underwater - but it becomes critical if property values recover.
 
 Learn more about protecting your home in Ohio →
 
@@ -9457,7 +9457,7 @@ Data from the Federal Judicial Center Integrated Database (2008-2024). Ohio is o
 
 Federal Districts
 
-$145,425
+$182,625
 
 Homestead Exemption
 
@@ -9479,7 +9479,7 @@ Southern District of Ohio (S.D. Ohio)over 160,000Columbus / Cincinnati / Dayton
 
 Key Facts About Bankruptcy in Ohio
 
-Homestead exemption: $145,425 - Ohio's homestead exemption protects up to $145,425 of equity in your primary residence.
+Homestead exemption: $182,625 - Ohio's homestead exemption protects up to $182,625 of equity in your primary residence.
 
 Chapter 13 dismissal risk: Nationally, about one-third to two-fifths of Chapter 13 cases end in dismissal. Quality of legal representation is one of the strongest predictors of plan completion.
 
@@ -9739,7 +9739,7 @@ Deficiency discharged - in Chapter 7, the deficiency is eliminated; in Chapter 1
 
 Ohio Vehicle Exemptions
 
-Ohio's motor vehicle exemption ($4,450 under state exemptions or $5,025 under federal) is moderate. With the federal wildcard, more equity can be protected. Surrendering an underwater vehicle eliminates the deficiency in Chapter 7. Ohio's mix of urban areas with transit (RTA in Cleveland, COTA in Columbus, SORTA in Cincinnati) and rural areas means transportation needs vary significantly.
+Ohio's motor vehicle exemption ($5,025 under state exemptions; Ohio does not allow the federal list) is moderate. With the Ohio wildcard ($1,675), more equity can be protected. Surrendering an underwater vehicle eliminates the deficiency in Chapter 7. Ohio's mix of urban areas with transit (RTA in Cleveland, COTA in Columbus, SORTA in Cincinnati) and rural areas means transportation needs vary significantly.
 
 When Surrender Makes Sense
 
@@ -9893,7 +9893,7 @@ The logic: if you receive a $4,000 refund, that is $333/month in excess withhold
 
 Ohio Trustee Practices
 
-Ohio has a state income tax (graduated, up to approximately 3.5%). Both federal and state refunds are at risk. Trustee practices differ between N.D. Ohio and S.D. Ohio. Ohio's federal wildcard exemption option (if federal exemptions chosen) can protect tax refund amounts. Ohio also has local income taxes in many cities (Cleveland, Columbus, Cincinnati all have ~2.5% city tax), which can affect refund sizes. The choice between state and federal exemptions is critical for refund protection.
+Ohio has a state income tax (graduated, up to approximately 3.5%). Both federal and state refunds are at risk. Trustee practices differ between N.D. Ohio and S.D. Ohio. Ohio's wildcard exemption ($1,675 under Ohio Rev. Code 2329.66(A)(18); Ohio does not allow the federal exemptions) can protect tax refund amounts. Ohio also has local income taxes in many cities (Cleveland, Columbus, Cincinnati all have ~2.5% city tax), which can affect refund sizes. The choice between state and federal exemptions is critical for refund protection.
 
 Strategies to Protect Your Refund
 
