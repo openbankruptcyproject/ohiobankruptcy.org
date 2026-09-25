@@ -56,7 +56,7 @@ Homestead exemption: $182,625 (does not protect cash)
 
 Vehicle exemption: $5,025 (does not protect cash)
 
-Federal exemptions: If you elect federal exemptions, the wildcard exemption can protect cash deposits
+Federal exemptions: Not available in Ohio (Ohio Rev. Code 2329.662); the Ohio cash ($625) and wildcard ($1,675) exemptions can protect cash deposits
 
 Many Ohio filers protect bank deposits by timing the filing when account balances are low (right after paying normal living expenses like rent, utilities, and food).
 
@@ -344,7 +344,7 @@ Your home equity up to $182,625 is protected from judgment creditors
 
 If you ever need to file bankruptcy again, this equity is exempt from the Chapter 7 trustee
 
-Ohio allows choosing between state and federal exemptions, giving flexibility in protecting your home
+Ohio does not allow the federal exemptions (Ohio Rev. Code 2329.662), so the Ohio homestead exemption is what protects your home
 
 Learn more about keeping your house in Ohio bankruptcy →
 
@@ -1570,7 +1570,7 @@ Social SecurityFully exempt
 
 State vs. Federal
 
-Choose one set. State is better for homeowners (higher homestead). Federal may be better for renters (larger wildcard).
+Ohio has opted out of the federal exemptions (Ohio Rev. Code 2329.662), so Ohio filers use the state exemptions.
 
 FAQ
 
@@ -1580,7 +1580,7 @@ $182,625. Doubles for joint filers.
 
 Can I use federal exemptions?
 
-Yes. One set only, no mixing.
+No. Ohio does not allow the federal exemptions (Ohio Rev. Code 2329.662).
 
 Wildcard?
 
@@ -1618,7 +1618,7 @@ Frequently Asked Questions
 
 Can I use the federal bankruptcy exemptions instead of Ohio?
 
-It depends on whether Ohio has opted out of the federal exemption scheme. Most states have opted out, meaning you must use the state exemptions. A handful of states (and DC) allow filers to choose. Confirm current opt-in status before you file - it changes how you fill out Schedule C.
+No. Ohio has opted out of the federal exemption scheme (Ohio Rev. Code 2329.662), so you must use the Ohio state exemptions. This changes how you fill out Schedule C.
 
 What if I moved to this state less than two years ago?
 
@@ -2647,7 +2647,7 @@ Home›Ohio Bankruptcy Exemptions for Cleveland Filers - What You Can Keep›Ban
 
 Bankruptcy Exemptions for Cleveland Filers
 
-Ohio's exemptions determine what property you can keep in bankruptcy. Cleveland residents can choose between Ohio state exemptions and federal exemptions.
+Ohio's exemptions determine what property you can keep in bankruptcy. Cleveland residents use the Ohio state exemptions; Ohio does not allow the federal exemptions (Ohio Rev. Code 2329.662).
 
 Ohio State Exemptions
 
@@ -2677,11 +2677,11 @@ State vs. Federal Exemptions
 
 Ohio does not allow the federal exemptions (Ohio Rev. Code 2329.662). You must use the Ohio state exemptions.
 
-When state exemptions may be better: You have significant home equity (state homestead is $182,625 vs. federal $31,575).
+Homestead: The Ohio homestead is $182,625 (the federal $31,575 does not apply in Ohio).
 
-When federal exemptions may be better: You do not own a home and want to use the federal wildcard to protect other property.
+Federal exemptions: Not available in Ohio (Ohio Rev. Code 2329.662), even if you do not own a home.
 
-Consult a qualified attorney to determine which set is best for your situation.
+Consult a qualified attorney about how the Ohio exemptions apply to your situation.
 
 How Exemptions Work
 
@@ -4266,7 +4266,7 @@ Social SecurityFully exempt
 
 State vs. Federal
 
-Ohio lets you choose. Use state if you have significant home equity. Use federal if you rent and want a larger wildcard.
+Ohio has opted out of the federal exemptions (Ohio Rev. Code 2329.662), so Ohio filers use the state exemptions.
 
 FAQ
 
@@ -6143,7 +6143,7 @@ Homestead exemption: $182,625 - the bankruptcy and divorce courts both consider 
 
 Vehicle exemption: $5,025
 
-Federal exemptions available: Ohio allows choosing federal exemptions, which may be better depending on your assets
+Federal exemptions not available: Ohio does not allow the federal exemptions (Ohio Rev. Code 2329.662)
 
 See the full Ohio exemptions guide for details.
 
