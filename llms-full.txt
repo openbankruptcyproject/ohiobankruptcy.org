@@ -1,6 +1,6 @@
 # ohiobankruptcy.org -- Full Content
 
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 This file contains the full text content of all pages on ohiobankruptcy.org.
 Part of the Open Bankruptcy Project (openbankruptcyproject.org).
@@ -21,6 +21,8 @@ Bank Accounts and Bankruptcy in Ohio
 Understanding how bankruptcy interacts with your bank accounts in Ohio can help you protect your money and avoid unexpected freezes or seizures.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. Before bankruptcy, a creditor with a judgment can levy (freeze and seize funds from) your bank account in Ohio. After you file bankruptcy, the automatic stay immediately prohibits any new levies and may require release of frozen funds.
 
 Bank Account Levies and the Automatic Stay
 
@@ -94,7 +96,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -126,15 +127,33 @@ Ohio Exemptions
 
 Bankruptcy Cost in Ohio
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+ohiobankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -158,7 +177,7 @@ Can I Buy a Car While in Chapter 13 in Ohio?
 
 Yes - but you need court permission first. Buying a car during Chapter 13 requires filing a motion, getting trustee approval, and showing the purchase fits your budget.
 
-Quick answer: You can buy a car during Chapter 13 in Ohio, but you must file a Motion to Incur New Debt and get court/trustee approval before signing anything. The court will evaluate whether the purchase is necessary and affordable within your plan.
+Quick answer: You can buy a car during Chapter 13 in Ohio, but the typical mechanism is filing a Motion to Incur New Debt and obtaining court/trustee approval before signing anything. The court will evaluate whether the purchase is necessary and affordable within your plan.
 
 The Process: Step by Step
 
@@ -210,7 +229,7 @@ Frequently Asked Questions
 
 Can I buy a car while in Chapter 13 in Ohio?
 
-Yes, but you need court approval. You must file a motion with the bankruptcy court requesting permission to incur new debt. The trustee and court will evaluate whether the purchase is necessary, whether you can afford it within your plan, and whether the terms are reasonable.
+Court approval is generally required. The typical mechanism is filing a motion with the bankruptcy court requesting permission to incur new debt. The trustee and court will evaluate whether the purchase is necessary, whether you can afford it within your plan, and whether the terms are reasonable.
 
 Do I need trustee approval to buy a car in Ohio Chapter 13?
 
@@ -226,7 +245,7 @@ You or your attorney file a Motion to Incur New Debt with the bankruptcy court. 
 
 Can I lease a car during Chapter 13 in Ohio?
 
-Leasing during Chapter 13 is treated the same as buying - you need court approval. Some courts view leases less favorably because they do not build equity. The total lease cost will be compared against purchasing.
+Leasing during Chapter 13 is treated the same as buying - court approval is generally required. Some courts view leases less favorably because they do not build equity. The total lease cost will be compared against purchasing.
 
 What happens if I buy a car without court approval?
 
@@ -268,15 +287,33 @@ Ohio Exemptions
 
 Bankruptcy Cost in Ohio
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+ohiobankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -301,6 +338,8 @@ Buying a House After Bankruptcy in Ohio
 Bankruptcy does not permanently prevent homeownership. Thousands of Americans buy homes after bankruptcy every year. Here are the waiting periods, requirements, and strategies for Ohio residents.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+After Chapter 7: 2-4 years depending on the loan type (FHA requires 2 years, conventional requires 4 years). After Chapter 13: 1-2 years after discharge (FHA may allow applications during an active plan with trustee approval). VA loans require 2 years after Chapter 7 and may allow applications during Chapter 13.
 
 Waiting Periods by Loan Type
 
@@ -380,7 +419,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -412,15 +450,33 @@ Ohio Exemptions
 
 Bankruptcy Cost in Ohio
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+ohiobankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -582,15 +638,33 @@ Ohio Exemptions
 
 Bankruptcy Cost in Ohio
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+ohiobankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -615,6 +689,8 @@ Chapter 13 Bankruptcy Eligibility in Ohio
 Chapter 13 lets Ohio residents keep their property while repaying debts over 3-5 years. Here are the eligibility requirements.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Under Section 109(e) of the Bankruptcy Code, Chapter 13 has two separate debt limits: noncontingent, liquidated unsecured debts must be less than $526,700, and noncontingent, liquidated secured debts must be less than $1,580,125. These limits adjust every three years (most recently on April 1, 2025). From June 2022 to June 21, 2024, a temporary law combined these into a single $2,750,000 limit; that provision expired. If your debts exceed either limit, you may need to file Chapter 11 instead.
 
 Core Eligibility Requirements
 
@@ -712,7 +788,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -744,15 +819,33 @@ Ohio Exemptions
 
 Bankruptcy Cost in Ohio
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+ohiobankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -777,6 +870,8 @@ Chapter 13 Payments in Ohio
 Your Chapter 13 plan payment is based on your income, expenses, and debts. Here is how it works in Ohio and what to do if you cannot keep up.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Your monthly payment depends on your disposable income (income minus allowed expenses), the amount of secured and priority debts you must pay, and the liquidation test (unsecured creditors must receive at least what they would get in Chapter 7). Most Ohio Chapter 13 payments range from a few hundred to a few thousand dollars per month.
 
 How Payments Are Calculated
 
@@ -864,7 +959,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -896,15 +990,33 @@ Ohio Exemptions
 
 Bankruptcy Cost in Ohio
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+ohiobankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -939,6 +1051,8 @@ Filing Fee
 $182,625
 
 Homestead Exemption
+
+Chapter 13 plans last 3 to 5 years. If your income is below the Ohio median, you may qualify for a 3-year plan. If above the median, your plan must be 5 years. During this time, you make monthly payments to a trustee who distributes the money to your creditors.
 
 What Is Chapter 13?
 
@@ -1045,15 +1159,33 @@ Ohio Exemptions
 
 Bankruptcy Cost in Ohio
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+ohiobankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -1078,6 +1210,8 @@ Chapter 7 Bankruptcy Eligibility in Ohio
 Chapter 7 bankruptcy can eliminate most unsecured debt in 3-4 months. Here is how to determine whether you qualify to file in Ohio.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+To qualify for Chapter 7 in Ohio, your household income must be at or below the state median income for your household size. If above median, you must pass the means test, which deducts allowed expenses from your income. If the result shows insufficient disposable income, you still qualify. Current Ohio median income figures are updated twice yearly.
 
 The Means Test
 
@@ -1159,7 +1293,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -1191,15 +1324,33 @@ Ohio Exemptions
 
 Bankruptcy Cost in Ohio
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+ohiobankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -1222,6 +1373,8 @@ Home›Chapter 7
 Chapter 7 Bankruptcy in Ohio
 
 Chapter 7 is the fastest path to debt relief. Most unsecured debts are eliminated in 3-4 months. Here is what Ohio residents need to know.
+
+Chapter 7 discharges most unsecured debts including credit cards, medical bills, personal loans, and old utility bills. It does not discharge student loans (in most cases), recent taxes, child support, alimony, or debts incurred through fraud.
 
 What Is Chapter 7?
 
@@ -1352,15 +1505,33 @@ Ohio Exemptions
 
 Bankruptcy Cost in Ohio
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+ohiobankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -1443,6 +1614,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
 
 Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -1534,6 +1707,8 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Ohio Bankruptcy Exemptions for Cincinnati Filers
@@ -1586,6 +1761,8 @@ Wildcard?
 
 $1,675 for any property.
 
+$182,625 of equity. Doubles for joint filers.
+
 Ohio Exemptions Explained for Cincinnati Filers
 
 Exemptions are the rules that decide what you keep when you file bankruptcy. Everything you own becomes part of the bankruptcy estate the moment you file, and exemptions are the legal carve-outs that pull property back out of the estate and into your hands. For Cincinnati residents, the exemption question has three parts: which set of exemptions you can use, how much each exemption protects, and what happens to property that exceeds the limits.
@@ -1628,7 +1805,7 @@ Are retirement accounts safe in bankruptcy?
 
 Yes, almost always. ERISA-qualified plans (401(k), 403(b), pension) are excluded from the estate entirely. Traditional and Roth IRAs are exempt up to a federal cap that is adjusted periodically - currently over $1.5 million in aggregate. Inherited IRAs are treated differently and may not receive the same protection under Clark v. Rameker (2014).
 
-Related resources from the Bankruptcy Transparency Network: means test, Chapter 7 vs. 13, 1328(f) prior-discharge screener, 341 meeting, automatic stay, how to file bankruptcy, student loans, Open Bankruptcy Project.
+Related resources from the Open Bankruptcy Project: means test, Chapter 7 vs. 13, 1328(f) prior-discharge screener, 341 meeting, automatic stay, how to file bankruptcy, student loans, Open Bankruptcy Project.
 
 Ohio Cities
 
@@ -1651,6 +1828,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
 
 Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -1732,6 +1911,8 @@ Free Means Test Calculator -- meanstest.org
 
 1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Filing Bankruptcy in Cincinnati, Ohio - Southern District Guide
@@ -1762,6 +1943,8 @@ Chapter 7 Filing Fee
 $313
 
 Chapter 13 Filing Fee
+
+Cincinnati residents file in the Southern District of Ohio. The courthouse is at 221 E 4th St, Cincinnati, OH 45202.
 
 Your Courthouse
 
@@ -1873,6 +2056,30 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
 ---
 
 ## Filing Bankruptcy in Fairfield, Ohio - S.D. Ohio Guide
@@ -1959,6 +2166,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Filing Bankruptcy in Hamilton, Ohio - S.D. Ohio Guide
@@ -2042,6 +2251,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
 Free Means Test Calculator -- meanstest.org
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -2129,6 +2340,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Filing Bankruptcy in Middletown, Ohio - S.D. Ohio Guide
@@ -2213,6 +2426,8 @@ Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
 Free Means Test Calculator -- meanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## 341 Meeting of Creditors in Cleveland, Ohio - What to Expect
@@ -2226,6 +2441,8 @@ Home›341 Meeting of Creditors in Cleveland, Ohio - What to Expect›341 Meetin
 341 Meeting of Creditors - Cleveland, Ohio
 
 The 341 meeting is a required part of every bankruptcy case. It is shorter and less intimidating than most people expect.
+
+The trustee asks questions under oath about your finances, assets, and the accuracy of your petition. It typically lasts 5-10 minutes.
 
 What Is the 341 Meeting?
 
@@ -2309,6 +2526,8 @@ Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Chapter 13 Bankruptcy in Cleveland, Ohio - Repayment Plan Guide
@@ -2322,6 +2541,8 @@ Home›Chapter 13 Bankruptcy in Cleveland, Ohio - Repayment Plan Guide›Chapter
 Chapter 13 Bankruptcy in Cleveland, Ohio
 
 Chapter 13 lets you keep your property while repaying debts over 3-5 years. It is often the best option for Cleveland homeowners facing foreclosure or car repossession.
+
+Chapter 13 creates a 3-5 year repayment plan. You make monthly payments to a trustee who distributes funds to creditors. You keep your property while catching up on secured debts like mortgages and car loans.
 
 What Is Chapter 13 Bankruptcy?
 
@@ -2409,6 +2630,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Chapter 7 Bankruptcy in Cleveland, Ohio - N.D. Ohio Guide
@@ -2422,6 +2645,8 @@ Home›Chapter 7 Bankruptcy in Cleveland, Ohio - N.D. Ohio Guide›Chapter 7 Ban
 Chapter 7 Bankruptcy in Cleveland, Ohio
 
 Chapter 7 is the most common form of bankruptcy. It eliminates most unsecured debts in 3-4 months. Cleveland residents file in the Northern District of Ohio.
+
+Chapter 7 eliminates most unsecured debts including credit card debt, medical bills, personal loans, and utility bills. It generally does not eliminate student loans, recent taxes, child support, or alimony.
 
 What Is Chapter 7 Bankruptcy?
 
@@ -2543,6 +2768,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy Cost in Cleveland, Ohio - Filing Fees and Attorney Costs
@@ -2556,6 +2783,8 @@ Home›Bankruptcy Cost in Cleveland, Ohio - Filing Fees and Attorney Costs›How
 How Much Does Bankruptcy Cost in Cleveland?
 
 A complete breakdown of bankruptcy costs for Cleveland residents - filing fees, attorney fees, required courses, and options if you cannot afford to pay.
+
+The Chapter 7 filing fee is $338. Attorney fees in Cleveland typically range from $1,000 to $1,800. Credit counseling costs about $15-25 per course (two required). Total cost is usually $1,400 to $2,200.
 
 Filing Fees
 
@@ -2635,6 +2864,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Ohio Bankruptcy Exemptions for Cleveland Filers - What You Can Keep
@@ -2648,6 +2879,8 @@ Home›Ohio Bankruptcy Exemptions for Cleveland Filers - What You Can Keep›Ban
 Bankruptcy Exemptions for Cleveland Filers
 
 Ohio's exemptions determine what property you can keep in bankruptcy. Cleveland residents use the Ohio state exemptions; Ohio does not allow the federal exemptions (Ohio Rev. Code 2329.662).
+
+Ohio's homestead exemption protects up to $182,625 of equity in your primary residence. For married couples filing jointly, the exemption doubles.
 
 Ohio State Exemptions
 
@@ -2733,6 +2966,8 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy FAQ for Cleveland, Ohio - Common Questions Answered
@@ -2746,6 +2981,8 @@ Home›Bankruptcy FAQ for Cleveland, Ohio - Common Questions Answered›Bankrupt
 Bankruptcy FAQ - Cleveland, Ohio
 
 Answers to the most common questions Cleveland residents have about filing bankruptcy in the Northern District of Ohio.
+
+Bankruptcy stays on your credit report for 7 years (Chapter 13) or 10 years (Chapter 7). However, many people see their credit scores improve within 1-2 years because their debt-to-income ratio improves dramatically.
 
 General Questions
 
@@ -2829,6 +3066,8 @@ Section 727(a)(8) Discharge Waiting Period -- 727a8.com
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Filing Bankruptcy in Cleveland, Ohio - Northern District Guide
@@ -2859,6 +3098,8 @@ Chapter 7 Filing Fee
 $313
 
 Chapter 13 Filing Fee
+
+Cleveland residents file in the Northern District of Ohio. The courthouse is at 801 W Superior Ave, Cleveland, OH 44113. You file in this district if you have lived in northern Ohio for the greater part of the last 180 days.
 
 Your Courthouse: Northern District of Ohio
 
@@ -3024,6 +3265,30 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
 ---
 
 ## Keep Your Car in Bankruptcy - Cleveland, Ohio Guide
@@ -3037,6 +3302,8 @@ Home›Keep Your Car in Bankruptcy - Cleveland, Ohio Guide›Keeping Your Car in
 Keeping Your Car in Bankruptcy - Cleveland, Ohio
 
 Worried about losing your car? Most Cleveland filers keep their vehicles. Here is how Ohio's exemptions and bankruptcy law protect your car.
+
+In most cases, yes. Ohio's vehicle exemption protects $5,025 of equity. If you owe more than the car is worth, your equity is zero and the car is fully protected.
 
 Ohio's Vehicle Exemption
 
@@ -3116,6 +3383,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Keep Your House in Bankruptcy - Cleveland, Ohio Guide
@@ -3129,6 +3398,8 @@ Home›Keep Your House in Bankruptcy - Cleveland, Ohio Guide›Keeping Your Hous
 Keeping Your House in Bankruptcy - Cleveland, Ohio
 
 Facing foreclosure or worried about losing your home? Ohio's generous homestead exemption and Chapter 13 protections help most Cleveland homeowners keep their homes.
+
+Usually yes. Ohio's homestead exemption protects $182,625 of equity. In Chapter 13, you keep your home while catching up on missed payments over 3-5 years.
 
 Ohio's Homestead Exemption
 
@@ -3196,6 +3467,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy Means Test in Cleveland, Ohio - Do You Qualify for Chapter 7?
@@ -3209,6 +3482,8 @@ Home›Bankruptcy Means Test in Cleveland, Ohio - Do You Qualify for Chapter 7?�
 The Means Test for Cleveland Filers
 
 The means test determines whether you qualify for Chapter 7 bankruptcy. It compares your income to the Ohio median.
+
+The means test compares your household income over the past 6 months to the Ohio median income for your household size. If below the median, you qualify for Chapter 7.
 
 How the Means Test Works
 
@@ -3273,6 +3548,8 @@ You May Also Find Helpful
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -3371,6 +3648,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
 
 Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -3474,6 +3753,8 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Filing Bankruptcy in Lorain, Ohio - N.D. Ohio Guide
@@ -3571,6 +3852,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
 
 Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -3670,6 +3953,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Filing Bankruptcy in Parma, Ohio - N.D. Ohio Guide
@@ -3683,6 +3968,8 @@ Home›Filing Bankruptcy in Parma, Ohio - N.D. Ohio Guide›Filing Bankruptcy in
 Filing Bankruptcy in Parma, Ohio
 
 Parma residents file for bankruptcy in the Northern District of Ohio. This guide covers courthouse location, Ohio exemptions, costs, and local resources.
+
+Parma, Ohio residents file in the Northern District of Ohio. The courthouse is at 801 W Superior Ave, Cleveland, OH 44113.
 
 Where Parma Residents File
 
@@ -3771,6 +4058,8 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -3876,6 +4165,8 @@ Free Means Test Calculator -- meanstest.org
 
 1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## 341 Meeting of Creditors in Columbus, Ohio - What to Expect
@@ -3955,6 +4246,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
 
 Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -4041,6 +4334,8 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
 
 Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -4154,6 +4449,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy Cost in Columbus, Ohio - Filing Fees and Attorney Costs
@@ -4230,6 +4527,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Ohio Bankruptcy Exemptions for Columbus Filers - What You Can Keep
@@ -4303,6 +4602,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
 
 Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -4384,6 +4685,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Filing Bankruptcy in Columbus, Ohio - Southern District Guide
@@ -4414,6 +4717,8 @@ Chapter 7 Filing Fee
 $313
 
 Chapter 13 Filing Fee
+
+Columbus residents file in the Southern District of Ohio. The courthouse is at 85 Marconi Blvd, Columbus, OH 43215.
 
 Your Courthouse: Southern District of Ohio
 
@@ -4550,6 +4855,30 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
 ---
 
 ## Keep Your Car in Bankruptcy - Columbus, Ohio Guide
@@ -4620,6 +4949,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Keep Your House in Bankruptcy - Columbus, Ohio Guide
@@ -4664,6 +4995,8 @@ Can bankruptcy stop foreclosure?
 
 Yes. Automatic stay stops it immediately. Chapter 13 cures arrears over 3-5 years.
 
+Usually yes. Ohio's $182,625 homestead exemption protects most homes. Chapter 13 lets you catch up on missed payments.
+
 Keeping Your House in a Columbus Bankruptcy
 
 For most Columbus homeowners, keeping the house is the top priority in any bankruptcy filing. The good news: bankruptcy was not designed to take your home. Between the homestead exemption and the Chapter 13 cure provisions, the great majority of filers keep their houses and come out the other side with their mortgage current and their unsecured debts discharged. Here is how it works.
@@ -4694,7 +5027,7 @@ How much home equity can I protect in Ohio?
 
 The Ohio homestead exemption amount varies by state and is updated periodically. Some states allow only a few thousand dollars, others allow hundreds of thousands, and a handful (Florida, Texas, Kansas, Iowa, Oklahoma, South Dakota) allow unlimited equity subject to acreage caps. Always check the current Ohio statute before assuming you are covered.
 
-Related resources from the Bankruptcy Transparency Network: means test, Chapter 7 vs. 13, 1328(f) prior-discharge screener, 341 meeting, automatic stay, how to file bankruptcy, student loans, Open Bankruptcy Project.
+Related resources from the Open Bankruptcy Project: means test, Chapter 7 vs. 13, 1328(f) prior-discharge screener, 341 meeting, automatic stay, how to file bankruptcy, student loans, Open Bankruptcy Project.
 
 Ohio Cities
 
@@ -4717,6 +5050,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
 
 Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -4764,6 +5099,8 @@ Is Social Security counted?
 
 No.
 
+Compares your 6-month income average to Ohio median. Below median = automatic Chapter 7 qualification.
+
 How the Means Test Actually Works for Columbus Filers
 
 Before you can file Chapter 7 in the Southern District of Ohio, you have to pass the means test. The test is designed to stop high-income debtors from wiping out debts they could afford to pay, but in practice most Columbus filers pass without difficulty because the Ohio median income is below the national average. The two-step test compares your household income to the Ohio median, and if that fails, to your disposable income after allowed expenses.
@@ -4790,7 +5127,7 @@ What counts as 'household size' in the Columbus means test?
 
 The Sixth Circuit generally uses a 'heads on beds' approach - everyone who lives in your home counts, including adult children, roommates who share expenses, elderly parents, and unrelated dependents. Some trustees push back on non-dependents, but the prevailing rule is physical residence plus shared household economics, not IRS dependency status.
 
-Related resources from the Bankruptcy Transparency Network: means test, Chapter 7 vs. 13, 1328(f) prior-discharge screener, 341 meeting, automatic stay, how to file bankruptcy, student loans, Open Bankruptcy Project.
+Related resources from the Open Bankruptcy Project: means test, Chapter 7 vs. 13, 1328(f) prior-discharge screener, 341 meeting, automatic stay, how to file bankruptcy, student loans, Open Bankruptcy Project.
 
 Ohio Cities
 
@@ -4811,6 +5148,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -4900,6 +5239,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Filing Bankruptcy in Gahanna, Ohio - S.D. Ohio Guide
@@ -4985,6 +5326,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
 
 Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -5072,6 +5415,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Filing Bankruptcy in Hilliard, Ohio - S.D. Ohio Guide
@@ -5158,6 +5503,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Filing Bankruptcy in Reynoldsburg, Ohio - S.D. Ohio Guide
@@ -5243,6 +5590,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
 
 Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -5332,6 +5681,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Converting Bankruptcy Chapters in Ohio
@@ -5347,6 +5698,8 @@ Converting Bankruptcy Chapters in Ohio
 If your financial situation changes after filing, Ohio debtors can convert between bankruptcy chapters. Understanding your conversion rights can help you get the best outcome.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. Under 11 U.S.C. section 706 and section 1307, you generally have the right to convert between chapters. Chapter 7 debtors can convert to Chapter 13 once as a matter of right. Chapter 13 debtors can convert to Chapter 7 at any time if they have not previously converted from Chapter 7.
 
 Conversion Options
 
@@ -5430,7 +5783,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -5462,15 +5814,33 @@ Ohio Exemptions
 
 Bankruptcy Cost in Ohio
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+ohiobankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5505,6 +5875,8 @@ Chapter 13 Filing Fee
 $25-50
 
 Credit Counseling (2 courses)
+
+The Chapter 7 filing fee is $338. Attorney fees in Ohio typically range from $1,000 to $1,800. Credit counseling courses cost about $25-50 total (two required). Fee waivers are available if your income is below 150% of the federal poverty guidelines.
 
 Chapter 7 Cost Breakdown
 
@@ -5599,15 +5971,33 @@ Ohio Exemptions
 
 Bankruptcy Cost in Ohio
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+ohiobankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5633,6 +6023,8 @@ Credit card debt is one of the most common reasons Ohio residents file for bankr
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
 
+Yes. Credit card debt is unsecured debt and is generally dischargeable in both Chapter 7 and Chapter 13 bankruptcy in Ohio. In Chapter 7, it is eliminated entirely. In Chapter 13, you pay a percentage based on your disposable income over 3-5 years, and the rest is discharged.
+
 How Each Chapter Handles Credit Card Debt
 
 Chapter 7
@@ -5647,7 +6039,7 @@ Recent Charges: The 90-Day and 70-Day Rules
 
 Under 11 U.S.C. section 523(a)(2)(C), certain recent credit card activity is presumed to be non-dischargeable:
 
-Luxury goods/services over $800 charged within 90 days before filing
+Luxury goods/services over $900 charged within 90 days before filing
 
 Cash advances over $1,250 within 70 days before filing
 
@@ -5709,7 +6101,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -5741,15 +6132,33 @@ Ohio Exemptions
 
 Bankruptcy Cost in Ohio
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+ohiobankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5781,7 +6190,7 @@ The Two Presumption Periods
 
 Applies to purchases of luxury goods/services
 
-Threshold: $800+ to a single creditor
+Threshold: $900+ to a single creditor
 
 Within 90 days of filing
 
@@ -5793,7 +6202,7 @@ Presumed non-dischargeable (you must prove otherwise)
 
 Applies to cash advances
 
-Threshold: $1,100+ in aggregate
+Threshold: $1,250+ in aggregate
 
 Within 70 days of filing
 
@@ -5849,7 +6258,7 @@ Technically you can, but it is strongly discouraged. Charges made with no intent
 
 What is the 90-day rule for credit cards before bankruptcy?
 
-Under 11 U.S.C. section 523(a)(2)(C), charges for luxury goods or services exceeding $800 made within 90 days of filing bankruptcy are presumed to be non-dischargeable. The creditor does not have to prove fraud - you must prove the charges were not fraudulent.
+Under 11 U.S.C. section 523(a)(2)(C), charges for luxury goods or services exceeding $900 made within 90 days of filing bankruptcy are presumed to be non-dischargeable. The creditor does not have to prove fraud - you must prove the charges were not fraudulent.
 
 What is the 70-day rule for cash advances?
 
@@ -5903,15 +6312,33 @@ Ohio Exemptions
 
 Bankruptcy Cost in Ohio
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+ohiobankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5936,6 +6363,8 @@ Bankruptcy Disqualifications in Ohio
 Not everyone qualifies for bankruptcy relief. Understanding the disqualifications can help Ohio residents plan their filing strategy.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+You may be disqualified from bankruptcy if: you did not complete credit counseling, you received a recent prior discharge (8 years for Ch.7-to-Ch.7, 4 years for Ch.7-to-Ch.13, 6 years for Ch.13-to-Ch.7, 2 years for Ch.13-to-Ch.13), you committed fraud, your prior case was dismissed within 180 days for cause, or your income is too high for Chapter 7 and debts exceed Chapter 13 limits.
 
 Filing Bars: When You Cannot File
 
@@ -6031,7 +6460,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -6063,15 +6491,33 @@ Ohio Exemptions
 
 Bankruptcy Cost in Ohio
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+ohiobankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6096,6 +6542,8 @@ Divorce and Bankruptcy in Ohio
 Divorce and bankruptcy often occur together. Understanding how they interact in Ohio can help you protect your assets, manage shared debts, and plan the best filing strategy.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. You can file bankruptcy before, during, or after a divorce in Ohio. The timing affects how debts and property are divided. Filing before the divorce can simplify property division by eliminating joint unsecured debt.
 
 Filing Order: Bankruptcy Before, During, or After Divorce
 
@@ -6179,7 +6627,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -6211,15 +6658,33 @@ Ohio Exemptions
 
 Bankruptcy Cost in Ohio
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+ohiobankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6244,6 +6709,8 @@ Emergency Bankruptcy Filing in Ohio
 When foreclosure, repossession, or garnishment is days or even hours away, Ohio residents can file an emergency bankruptcy petition to trigger the automatic stay immediately.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. You can file an emergency (bare-bones) bankruptcy petition in Ohio to get the automatic stay protection immediately. You file only the two-page voluntary petition, a creditor list, and proof of credit counseling. You then have 14 days to file the remaining schedules and documents.
 
 What Is an Emergency Bankruptcy Filing?
 
@@ -6342,7 +6809,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -6374,15 +6840,33 @@ Ohio Exemptions
 
 Bankruptcy Cost in Ohio
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+ohiobankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6548,15 +7032,33 @@ Ohio Exemptions
 
 Bankruptcy Cost in Ohio
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+ohiobankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6688,15 +7190,33 @@ Ohio Exemptions
 
 Bankruptcy Cost in Ohio
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+ohiobankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6858,15 +7378,33 @@ Ohio Exemptions
 
 Bankruptcy Cost in Ohio
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+ohiobankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6889,6 +7427,8 @@ Home›Exemptions
 Ohio Bankruptcy Exemptions
 
 Exemptions determine what property you get to keep when you file bankruptcy. Understanding Ohio's exemptions is critical - they can mean the difference between keeping and losing your home, car, and savings.
+
+Ohio's homestead exemption protects up to $182,625 of equity in your primary residence. For married couples filing jointly, the exemption doubles. Ohio does not allow filers to use federal exemptions.
 
 What Are Exemptions?
 
@@ -6973,15 +7513,33 @@ Ohio Exemptions
 
 Bankruptcy Cost in Ohio
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+ohiobankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6993,7 +7551,7 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## Ohio Bankruptcy FAQ - 15 Common Questions Answered
+## Ohio Bankruptcy FAQ [2026]: 15 Questions on NDOH and SDOH Filing, ORC Exemptions, and Means Test
 Source: https://ohiobankruptcy.org/faq.html
 
 Ohio Bankruptcy Guide
@@ -7004,6 +7562,8 @@ Home›Faq
 Ohio Bankruptcy FAQ
 
 Answers to the 15 most common questions from Ohio residents considering bankruptcy.
+
+Chapter 7 filing fee is $338 and Chapter 13 is $313. Attorney fees typically range from $1,000 to $1,800 for Chapter 7 and $2,500 to $4,000 for Chapter 13. Credit counseling costs about $25-50 total. Chapter 13 fees can be paid through your repayment plan. Fee waivers available for low-income Chapter 7 filers.
 
 Cost and Eligibility
 
@@ -7098,15 +7658,33 @@ Ohio Exemptions
 
 Bankruptcy Cost in Ohio
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+ohiobankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7264,15 +7842,33 @@ Ohio Exemptions
 
 Bankruptcy Cost in Ohio
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+ohiobankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7297,6 +7893,8 @@ Ohio Bankruptcy Glossary
 Key bankruptcy terms and definitions for Ohio filers, from automatic stay to wildcard exemption.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Chapter 7 eliminates most unsecured debt in 3-4 months through liquidation of non-exempt assets. Chapter 13 is a 3-5 year repayment plan for people with regular income. Chapter 7 has income limits (means test); Chapter 13 has debt limits ($526,700 unsecured, $1,580,125 secured).
 
 Bankruptcy Terms A-Z
 
@@ -7407,7 +8005,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -7439,15 +8036,33 @@ Ohio Exemptions
 
 Bankruptcy Cost in Ohio
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+ohiobankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7472,6 +8087,8 @@ Bankruptcy Income Limits in Ohio
 Your income determines which bankruptcy chapter you qualify for in Ohio and how much you pay in Chapter 13. Here is how the income limits work.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+For Chapter 7, your household income must be at or below the Ohio median for your household size, or you must pass the means test expense deduction. Chapter 13 has no income ceiling - anyone with regular income can file. However, Chapter 13 has debt limits: $526,700 in unsecured debts and $1,580,125 in secured debts.
 
 Chapter 7 Income Limits
 
@@ -7549,7 +8166,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -7581,15 +8197,33 @@ Ohio Exemptions
 
 Bankruptcy Cost in Ohio
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+ohiobankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7601,13 +8235,13 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## Ohio Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
+## Ohio Bankruptcy - Chapter 7 &amp; 13 Filing Guide [2026]
 Source: https://ohiobankruptcy.org/
 
 Skip to main content
 
 Ohio Bankruptcy Guide
-HomeChapter 7Chapter 13ExemptionsCostFAQStatsResourcesOBP Rule 9037 PII Scanner
+HomeChapter 7Chapter 13ExemptionsCostFAQStatsResourcesOBP Rule 9037 Compliance Guide
 
 Ohio Bankruptcy - Your Complete Filing Guide for 2026
 
@@ -7631,6 +8265,8 @@ Chapter 7 Filing Fee
 $313
 
 Chapter 13 Filing Fee
+
+Chapter 7 filing fees are $338 and Chapter 13 filing fees are $313. Attorney fees in Ohio typically range from $1,000 to $1,800 for Chapter 7 and $2,500 to $4,000 for Chapter 13. You will also need to pay for two required credit counseling courses, usually $25-$50 total.
 
 Chapter 7 vs. Chapter 13: Which Is Right for You?
 
@@ -7789,7 +8425,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Rhode Island
 Tennessee
 Vermont
@@ -7836,19 +8471,33 @@ Avoid high-volume firms with poor outcomes
 
 bankruptcymill.org →
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+ohiobankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
 
-Privacy Policy
+♥ Donate
 
-Cited by the Federal Rules Committee (26-BK-3)
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 Have a Question?
 
@@ -7934,6 +8583,65 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
+Site Map
+
+Additional resources on this site
+
+Bank Account
+Buy Car Chapter 13
+Buying A House
+Car Lease
+Chapter 13 Eligibility
+Chapter 13 Payments
+Chapter 7 Eligibility
+Converting Chapters
+Credit Card Debt
+Credit Cards Before Filing
+Disqualifications
+Divorce And Bankruptcy
+Emergency Bankruptcy
+Employment
+Engagement Ring
+Eviction
+Find Bankruptcy Filing
+Income Limits
+Index
+Judgments
+Medical Debt Only
+Payday Loans
+Reaffirmation Regret
+Renting After Bankruptcy
+Repo Credit Report
+Retirement Accounts
+Second Mortgage
+Stop Paying Bills
+Surrender Car
+Tax Refund Chapter13
+Timeshare
+Travel Chapter 13
+
 ---
 
 ## Judgments and Bankruptcy in Ohio
@@ -7949,6 +8657,8 @@ Judgments and Bankruptcy in Ohio
 A civil judgment against you does not mean you are out of options. Bankruptcy can discharge the underlying debt and even remove judgment liens from your property in Ohio.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. Most money judgments based on unsecured debt (credit cards, medical bills, personal loans) are dischargeable in bankruptcy in Ohio. The underlying debt determines dischargeability - if the original debt was dischargeable, the judgment based on that debt is also dischargeable.
 
 Discharging Judgments in Bankruptcy
 
@@ -8040,7 +8750,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -8072,15 +8781,33 @@ Ohio Exemptions
 
 Bankruptcy Cost in Ohio
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+ohiobankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8224,15 +8951,33 @@ Ohio Exemptions
 
 Bankruptcy Cost in Ohio
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+ohiobankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8257,6 +9002,8 @@ Payday Loans and Bankruptcy in Ohio
 Payday loans trap borrowers in cycles of high-interest debt. Bankruptcy can break that cycle by discharging payday loan obligations entirely.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. Payday loans are unsecured debt and are fully dischargeable in both Chapter 7 and Chapter 13 bankruptcy in Ohio. Once discharged, the lender cannot collect, even if they have post-dated checks or ACH authorization.
 
 Payday Loans Are Dischargeable
 
@@ -8324,7 +9071,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -8356,15 +9102,33 @@ Ohio Exemptions
 
 Bankruptcy Cost in Ohio
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+ohiobankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8490,15 +9254,33 @@ Ohio Exemptions
 
 Bankruptcy Cost in Ohio
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+ohiobankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8636,15 +9418,33 @@ Ohio Exemptions
 
 Bankruptcy Cost in Ohio
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+ohiobankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8812,15 +9612,33 @@ Ohio Exemptions
 
 Bankruptcy Cost in Ohio
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+ohiobankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8843,6 +9661,8 @@ Home›Resources
 Ohio Bankruptcy Resources
 
 Courts, legal aid organizations, credit counseling agencies, and free educational tools to help you navigate the bankruptcy process in Ohio.
+
+Ohio has 2 federal bankruptcy courts. N.D. Ohio: 455 U.S. Courthouse, 2 S. Main St, Akron, OH 44308 ((330) 252-6100); S.D. Ohio: 170 N. High St, Columbus, OH 43215 ((614) 469-6638)
 
 Bankruptcy Courts
 
@@ -8973,15 +9793,33 @@ Ohio Exemptions
 
 Bankruptcy Cost in Ohio
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+ohiobankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9003,7 +9841,7 @@ Home›Retirement Accounts and Bankruptcy in Ohio
 
 Retirement Accounts and Bankruptcy in Ohio
 
-Your retirement savings are among the most protected assets in bankruptcy. ERISA-qualified plans are 100% exempt under federal law, and IRAs are protected up to $1,512,350. Here is what Ohio filers need to know.
+Your retirement savings are among the most protected assets in bankruptcy. ERISA-qualified plans are 100% exempt under federal law, and IRAs are protected up to $1,711,975. Here is what Ohio filers need to know.
 
 Quick answer: Your 401(k), 403(b), pension, and other ERISA-qualified retirement plans are 100% exempt in bankruptcy - no dollar limit. IRAs (traditional and Roth) are protected up to $1,711,975. Do NOT cash out retirement to pay debts or avoid filing. That converts protected money into unprotected money.
 
@@ -9025,7 +9863,7 @@ Thrift Savings Plan (TSP) - fully exempt for federal employees
 
 This protection applies nationwide regardless of state exemption choices. The trustee cannot touch these accounts.
 
-IRAs: Protected Up to $1,512,350
+IRAs: Protected Up to $1,711,975
 
 Traditional IRAs and Roth IRAs are protected under 11 U.S.C. section 522(n) up to a combined limit of $1,711,975 (adjusted for inflation). This limit applies to:
 
@@ -9121,15 +9959,33 @@ Ohio Exemptions
 
 Bankruptcy Cost in Ohio
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+ohiobankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9154,6 +10010,8 @@ Second Mortgages and Bankruptcy in Ohio
 If your Ohio home is worth less than your first mortgage, Chapter 13 lien stripping can eliminate your second mortgage entirely.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes, through a process called lien stripping in Chapter 13. If your home is worth less than what you owe on your first mortgage, the second mortgage is considered wholly unsecured and can be treated as general unsecured debt in your plan. At completion of the plan, the lien is removed.
 
 What Is Lien Stripping?
 
@@ -9235,7 +10093,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -9267,15 +10124,33 @@ Ohio Exemptions
 
 Bankruptcy Cost in Ohio
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+ohiobankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9421,15 +10296,33 @@ Ohio Exemptions
 
 Bankruptcy Cost in Ohio
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+ohiobankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9441,7 +10334,7 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 ---
 
-## Ohio Bankruptcy Statistics - Filing Data and Trends
+## Ohio Bankruptcy Statistics [2026]: Filing Data and Trends Across NDOH and SDOH
 Source: https://ohiobankruptcy.org/statistics.html
 
 Ohio Bankruptcy Guide
@@ -9468,6 +10361,8 @@ Chapter 7 Filing Fee
 $313
 
 Chapter 13 Filing Fee
+
+Since 2008, Ohio's districts have processed over 180,000+ bankruptcy cases. Filing volumes peaked around 2010-2011 following the financial crisis and have generally declined since.
 
 Ohio Federal Court Districts
 
@@ -9520,7 +10415,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Rhode Island
 Tennessee
 Vermont
@@ -9551,15 +10445,33 @@ Ohio Exemptions
 
 Bankruptcy Cost in Ohio
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+ohiobankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9687,15 +10599,33 @@ Ohio Exemptions
 
 Bankruptcy Cost in Ohio
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+ohiobankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9851,15 +10781,33 @@ Ohio Exemptions
 
 Bankruptcy Cost in Ohio
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+ohiobankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9985,15 +10933,33 @@ Ohio Exemptions
 
 Bankruptcy Cost in Ohio
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+ohiobankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -10147,15 +11113,33 @@ Ohio Exemptions
 
 Bankruptcy Cost in Ohio
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+ohiobankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -10293,15 +11277,33 @@ Ohio Exemptions
 
 Bankruptcy Cost in Ohio
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+ohiobankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -10369,7 +11371,7 @@ You may request deletion of any personal data we hold by contacting info@openban
 
 Network Policy
 
-This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit. The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+This site is part of the Open Bankruptcy Project operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
 Changes
 
@@ -10379,6 +11381,368 @@ Effective: March 30, 2026  |  Updated: April 11, 2026
 
 Home  ·  Privacy  ·  Open Bankruptcy Project
 
-Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
 
 No ads. No affiliate links. No data sold. Supported by donations.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## About ohiobankruptcy.org
+Source: https://ohiobankruptcy.org/about.html
+
+ohiobankruptcy.org
+
+Home
+About
+Privacy
+
+About ohiobankruptcy.org
+
+Part of the Open Bankruptcy Project operated by the Open Bankruptcy Project.
+
+What This Site Is
+
+ohiobankruptcy.org is an educational resource operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). It's part of the Open Bankruptcy Project - a collection of free, public-interest sites that translate federal bankruptcy court data, statutes, and procedures into language ordinary people can use.
+
+The Open Bankruptcy Project
+
+The Open Bankruptcy Project builds free, open-source tools that make public bankruptcy court data accessible to the people it affects most - debtors, advocates, researchers, journalists, and policymakers. Every screening tool, analysis script, and dataset is published on GitHub. Anyone can audit, reproduce, or build upon the work without permission or payment.
+
+Our research is derived primarily from the Federal Judicial Center's Integrated Database covering all federal bankruptcy filings 2008 through 2024, cross-referenced with PACER docket data via the Free Law Project's RECAP archive and independent court-scraping tooling. Methodology and source code are public.
+
+What This Site Is Not
+
+This site is not a law firm. We do not represent clients, file bankruptcy cases, or give legal advice. We do not receive referral fees, affiliate commissions, or advertising revenue. We do not sell data.
+
+If you need legal advice about your specific situation, consult a licensed bankruptcy attorney in your state.
+
+Research Contributions
+
+Our research supports two accepted suggestions to the Federal Judicial Conference Advisory Committee on Bankruptcy Rules:
+
+Suggestion 26-BK-3 - procedural screening for 11 U.S.C. § 1328(f) re-filing eligibility
+
+Suggestion 26-BK-5 - Rule 9037 / Form 121 / Form 309E1 amendments addressing systematic unredacted Social Security number exposure on federal bankruptcy dockets
+
+Contact
+
+General inquiries, data requests, research collaboration, and media: info@openbankruptcyproject.org
+
+Privacy and Data Handling
+
+See our privacy policy for details. Short version: aggregate analytics only; no data sold, no advertising, no attorney referrals, no financial information collected.
+
+Home  ·  About  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
+
+---
+
+## Credit After Bankruptcy in Ohio
+Source: https://ohiobankruptcy.org/credit-after-bankruptcy.html
+
+Ohio Bankruptcy Guide
+HomeColumbusChapter 7Chapter 13ExemptionsCostFAQOBP
+
+Home›Ohio›Credit After Bankruptcy
+
+Rebuilding Credit After Bankruptcy in Ohio
+
+Bankruptcy is not the end of your credit life - it is the beginning. Most people see their score start rising within months of discharge.
+
+General educational information, not legal or financial advice. Consult a qualified professional for advice about your situation.
+
+Chapter 7 stays for 10 years from the filing date. Chapter 13 stays for 7 years from the filing date. But the impact on your score diminishes over time, and most lenders weigh the most recent 2 years most heavily.
+
+FICO Score Timeline After Bankruptcy
+
+Many people assume their FICO scores will stay buried for years after bankruptcy. The reality is different. Bankruptcy wipes out old debts and debt-to-income ratios reset almost immediately, so the rebuild can start faster than you expect.
+
+Month 1-6: Score often drops to low 500s at filing, then begins to stabilize after discharge.
+
+Month 6-12: With a secured credit card used responsibly, scores typically climb back to mid-600s.
+
+Year 2: Many Ohio residents qualify for FHA home loans with 620+ scores.
+
+Year 3-5: Scores often return to 700+ with consistent on-time payment history.
+
+Five Steps to Rebuild Credit Fast
+
+Get a secured credit card. Deposit $200-$500 as collateral. Use under 30% of the limit and pay in full every month. After 12 months you usually graduate to an unsecured card.
+
+Pay every bill on time. Payment history is 35% of your FICO score - the single biggest factor. Set up autopay for everything you possibly can.
+
+Keep utilization low. Credit usage is 30% of your score. Keep balances below 30% of limits, and below 10% if you want to maximize the rebuild.
+
+Do not apply for multiple credit products at once. Each application is a hard inquiry. Space applications at least six months apart.
+
+Monitor your credit report. Pull free reports at annualcreditreport.com and dispute any discharged debt that still shows as owed. Creditors sometimes fail to update.
+
+Frequently Asked Questions
+
+How long does bankruptcy stay on my credit report?
+
+Chapter 7 stays for 10 years from the filing date. Chapter 13 stays for 7 years from the filing date. But the impact on your score diminishes over time, and most lenders weigh the most recent 2 years most heavily.
+
+How long until I can qualify for a mortgage?
+
+FHA loans require 2 years after Chapter 7 (1 year in Chapter 13 with on-time payments). VA loans are similar. Conventional loans require 4 years after Chapter 7 and 2 years after Chapter 13. See Buy a House After Bankruptcy.
+
+Should I close all my accounts after bankruptcy?
+
+No. Keeping any account in good standing that survives bankruptcy helps you rebuild. Closing accounts reduces available history and can lower your score. Focus on on-time payments for at least six months before applying for new credit.
+
+Ready to Start Rebuilding?
+
+Free Discharge Screener
+
+Browse Other States
+
+MichiganIndianaKentuckyView All States →
+
+© 2026 Open Bankruptcy Project. Educational information only - not legal advice.
+
+Español · Free Discharge Screener · Research Platform
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## Keep Your Car in Ohio Bankruptcy
+Source: https://ohiobankruptcy.org/keep-your-car.html
+
+Ohio Bankruptcy Guide
+HomeColumbusChapter 7Chapter 13ExemptionsCostFAQOBP
+
+Home›Ohio›Keep Your Car
+
+Keep Your Car in Ohio Bankruptcy
+
+For most people, losing the car means losing the job. Here is how to keep your vehicle when filing bankruptcy in Ohio.
+
+This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes, in most cases. If your equity is below Ohio's motor vehicle exemption ($5,025) and you are current on payments, you can keep the car in Chapter 7. In Chapter 13, you can keep the car even if you are behind on payments by catching up through the plan.
+
+Ohio's Motor Vehicle Exemption: $5,025
+
+Ohio lets you protect up to $5,025 of equity in a motor vehicle in bankruptcy. Equity is the fair market value of the car minus what you still owe on the loan. If your equity is below the exemption limit, the trustee cannot sell your car in Chapter 7.
+
+Example: Your car is worth $12,000 and you owe $10,500 on the loan. Your equity is $1,500. If that sits below Ohio's motor vehicle exemption, the car is protected. Keep making payments to the lender and the car stays with you through the case.
+
+If your equity exceeds the exemption, you may still be able to keep the car by paying the trustee the non-exempt portion, using wildcard exemptions, or switching to Chapter 13.
+
+Your Three Options in Chapter 7
+
+Reaffirm
+
+Sign a new agreement with the lender to keep the car and the loan. You remain personally liable after the case. Best if the car is worth close to the loan balance and you can afford the payment.
+
+Surrender
+
+Give the car back to the lender. Any deficiency balance is wiped out in the bankruptcy. Best if the car is deeply underwater or you cannot afford the payment.
+
+Redeem
+
+Pay the lender the car's fair market value in one lump sum (not the loan balance). Hard to do without outside financing, but can save thousands on underwater cars.
+
+Chapter 13
+
+Catch up missed payments over 3-5 years through the plan. May cramdown the loan balance to the car's value if you bought it more than 910 days ago (Chapter 13 details).
+
+Frequently Asked Questions
+
+Can I keep my car if I file bankruptcy in Ohio?
+
+Yes, in most cases. If your equity is below Ohio's motor vehicle exemption ($5,025) and you are current on payments, you can keep the car in Chapter 7. In Chapter 13, you can keep the car even if you are behind on payments by catching up through the plan.
+
+What is reaffirmation?
+
+A reaffirmation agreement is a contract with the lender to exclude the car loan from your bankruptcy discharge. You promise to keep paying and keep the car, but you also remain personally liable if you default later. Only sign one if you can afford the payment.
+
+What is Chapter 13 cramdown?
+
+Cramdown lets you reduce the loan balance to the car's actual value if you bought it more than 910 days (2.5 years) ago. This can save thousands on underwater vehicles. Talk to a bankruptcy attorney about whether cramdown fits your case.
+
+Protect Your Transportation
+
+Use our free tools to see your options.
+
+Free Discharge Screener
+Ohio Bankruptcy Guide
+
+Browse Other States
+
+MichiganIndianaKentuckyView All States →
+
+© 2026 Open Bankruptcy Project. Educational information only - not legal advice.
+
+Español · Free Discharge Screener · Research Platform
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## Keep Your House in Ohio Bankruptcy
+Source: https://ohiobankruptcy.org/keep-your-house.html
+
+Ohio Bankruptcy Guide
+HomeColumbusChapter 7Chapter 13ExemptionsCostFAQOBP
+
+Home›Ohio Bankruptcy Guide›Keep Your House
+
+Keep Your House in Ohio Bankruptcy
+
+Your home is often your most important asset. Here is how Ohio's homestead exemption and bankruptcy law work together to help you keep your house.
+
+This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+In most cases, yes. Ohio's homestead exemption protects up to $182,625 of equity in your home. If your equity is below that amount, your home is fully protected in Chapter 7. In Chapter 13, you keep your home while catching up on missed mortgage payments through a 3-5 year repayment plan.
+
+Ohio's Homestead Exemption: $182,625
+
+Ohio's homestead exemption protects up to $182,625 of equity in your primary residence ($365,250 for married couples filing jointly). If your equity is below this amount, your home is fully protected in Chapter 7.
+
+To calculate your equity, take the fair market value of your home and subtract all mortgages and liens. The result is your equity. If that number fits within the exemption limit, the trustee cannot sell your home.
+
+Chapter 7 vs. Chapter 13 for Your Home
+
+Chapter 7
+
+Homestead exemption protects equity up to $182,625
+
+Eliminates unsecured debt, making mortgage payments more affordable
+
+Does NOT stop foreclosure long-term - only delays it during the case
+
+You must stay current on mortgage payments to keep the home
+
+Best if you are current on mortgage and need to eliminate other debts
+
+Chapter 13
+
+Stops foreclosure through the automatic stay
+
+Catch up on missed payments over 3-5 years
+
+May strip off underwater second mortgages (lien stripping)
+
+Protects home regardless of equity amount
+
+Best if you are behind on mortgage payments
+
+Foreclosure in Ohio
+
+Ohio primarily uses judicial foreclosure. The process typically takes about 5-7 months from start to sale, and Ohio law provides a right of redemption up until the court confirms the judicial foreclosure sale.
+
+If you are facing foreclosure in Ohio, bankruptcy can stop the process. The automatic stay halts all foreclosure proceedings the moment you file. Chapter 13 then gives you a structured way to catch up on missed payments while keeping your home.
+
+Frequently Asked Questions
+
+Can I keep my house if I file bankruptcy in Ohio?
+
+In most cases, yes. Ohio's homestead exemption protects up to $182,625 of equity in your home. If your equity is below that amount, your home is fully protected in Chapter 7. In Chapter 13, you keep your home while catching up on missed mortgage payments through a 3-5 year repayment plan.
+
+Can Chapter 13 stop foreclosure in Ohio?
+
+Yes. Filing Chapter 13 triggers the automatic stay, which immediately stops foreclosure proceedings. You can then catch up on missed mortgage payments over 3-5 years through your repayment plan while continuing to make regular monthly payments going forward.
+
+What happens to my second mortgage in bankruptcy?
+
+If your home is worth less than what you owe on the first mortgage, Chapter 13 may allow you to strip off (remove) the second mortgage entirely. The second mortgage is treated as unsecured debt. This is called lien stripping and can save homeowners thousands.
+
+Protect Your Home Today
+
+Learn about your options and check your discharge eligibility with our free tools.
+
+Free Discharge Screener
+Keep Your House Guide
+
+Browse Other States
+
+MichiganIndianaKentucky
+View All States →
+
+© 2026 Open Bankruptcy Project. Educational information only - not legal advice.
+
+Español · Free Discharge Screener · Research Platform
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## Wage Garnishment in Ohio: How to Stop It
+Source: https://ohiobankruptcy.org/wage-garnishment.html
+
+Ohio Bankruptcy Guide
+HomeColumbusChapter 7Chapter 13ExemptionsCostFAQOBP
+
+Home›Ohio›Wage Garnishment
+
+How to Stop Wage Garnishment in Ohio
+
+Bankruptcy stops most wage garnishments the same day you file. Here is how it works.
+
+General educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Ohio follows federal garnishment limits (25% of disposable earnings or the amount exceeding 30x federal minimum wage, whichever is less).
+
+Garnishment Limits in Ohio
+
+Ohio follows federal garnishment limits (25% of disposable earnings or the amount exceeding 30x federal minimum wage, whichever is less).
+
+Protected income: Social Security, disability benefits, child support (received), veterans benefits, and most pensions are generally exempt from garnishment, though they may still be garnished for federal taxes or child support.
+
+Some creditors ignore the rules or calculate the protected amount incorrectly. If you think your paycheck is over-garnished, request a hearing to object. Bankruptcy is often the faster, more permanent solution.
+
+How Bankruptcy Stops Garnishment
+
+The moment a bankruptcy petition is filed, the automatic stay under 11 U.S.C. section 362 takes effect. This federal court order stops:
+
+All wage garnishments by non-governmental creditors
+
+Bank account garnishments and attachment liens
+
+Collection calls and letters
+
+Pending lawsuits and judgments
+
+Foreclosure and vehicle repossession proceedings
+
+To stop the garnishment you must notify your employer's payroll department and the garnishing creditor the same day you file, so they halt withholdings on the next paycheck. Provide the case number and the filing date.
+
+Recovering Already-Garnished Wages
+
+If a creditor garnished more than $600 from you within the 90 days before you filed, those payments are preferential transfers under 11 U.S.C. section 547 and can be clawed back. The trustee will recover the funds from the creditor. In some cases (if you have unused exemption room) you can claim the recovery for yourself.
+
+Frequently Asked Questions
+
+How much can be garnished from my paycheck in Ohio?
+
+Ohio follows federal garnishment limits (25% of disposable earnings or the amount exceeding 30x federal minimum wage, whichever is less).
+
+Does bankruptcy stop garnishment immediately?
+
+Yes. The automatic stay under 11 U.S.C. section 362 takes effect the exact moment your bankruptcy petition is filed. You must notify your employer's payroll department and the garnishing creditor the same day so they halt withholdings on your next check.
+
+Can I recover wages that were already garnished?
+
+If a creditor garnished more than $600 within the 90 days before you filed, you can often claw it back as a preferential transfer under 11 U.S.C. section 547. Involuntary payments within the 90-day look-back are recoverable by the trustee or (if you have exemption room) by you.
+
+Stop the Garnishment Today
+
+Free Discharge Screener
+
+Browse Other States
+
+MichiganIndianaKentuckyView All States →
+
+© 2026 Open Bankruptcy Project. Educational information only - not legal advice.
+
+Español · Free Discharge Screener · Research Platform
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5

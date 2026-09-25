@@ -1,5 +1,5 @@
-# Ohio Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
-> Last updated: 2026-05-01
+# Ohio Bankruptcy - Chapter 7 &amp; 13 Filing Guide [2026]
+> Last updated: 2026-09-25
 
 > Free Ohio bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, Ohio exemptions, filing costs, means test, and what to expect in your case.
 
@@ -68,11 +68,11 @@ ohiobankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproject
 - Can I Keep My Jewelry in Ohio Bankruptcy?: https://ohiobankruptcy.org/engagement-ring.html
 - Can Bankruptcy Stop an Eviction in Ohio?: https://ohiobankruptcy.org/eviction.html
 - Ohio Bankruptcy Exemptions - What You Can Keep: https://ohiobankruptcy.org/exemptions.html
-- Ohio Bankruptcy FAQ - 15 Common Questions Answered: https://ohiobankruptcy.org/faq.html
+- Ohio Bankruptcy FAQ [2026]: 15 Questions on NDOH and SDOH Filing, ORC Exemptions, and Means Test: https://ohiobankruptcy.org/faq.html
 - How to Find Bankruptcy Filings in Ohio: https://ohiobankruptcy.org/find-bankruptcy-filing.html
 - Ohio Bankruptcy Glossary: https://ohiobankruptcy.org/glossary.html
 - Bankruptcy Income Limits in Ohio: https://ohiobankruptcy.org/income-limits.html
-- Ohio Bankruptcy - Chapter 7 & 13 Filing Guide: https://ohiobankruptcy.org/
+- Ohio Bankruptcy - Chapter 7 &amp; 13 Filing Guide: https://ohiobankruptcy.org/
 - Judgments and Bankruptcy in Ohio: https://ohiobankruptcy.org/judgments.html
 - Filing Bankruptcy for Medical Debt in Ohio - Discharge, Alternatives, Protections: https://ohiobankruptcy.org/medical-debt-only.html
 - Payday Loans and Bankruptcy in Ohio: https://ohiobankruptcy.org/payday-loans.html
@@ -83,13 +83,18 @@ ohiobankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproject
 - Can I Keep My 401k and Retirement in Ohio Bankruptcy?: https://ohiobankruptcy.org/retirement-accounts.html
 - Second Mortgages and Bankruptcy in Ohio: https://ohiobankruptcy.org/second-mortgage.html
 - Bankruptcy and Security Clearance in Ohio - Will I Lose My Clearance?: https://ohiobankruptcy.org/security-clearance.html
-- Ohio Bankruptcy Statistics - Filing Data and Trends: https://ohiobankruptcy.org/statistics.html
+- Ohio Bankruptcy Statistics [2026]: Filing Data and Trends Across NDOH and SDOH: https://ohiobankruptcy.org/statistics.html
 - What Bills to Stop Paying Before Bankruptcy in Ohio: https://ohiobankruptcy.org/stop-paying-bills.html
 - Surrendering Your Car in Ohio Bankruptcy - Process, Deficiency, Options: https://ohiobankruptcy.org/surrender-car.html
 - Tax Refunds and Chapter 13 in Ohio - Trustee Practices, Protecting Your Refund: https://ohiobankruptcy.org/tax-refund-chapter13.html
 - Timeshares and Bankruptcy in Ohio: https://ohiobankruptcy.org/timeshare.html
 - Can I Travel During Chapter 13 in Ohio?: https://ohiobankruptcy.org/travel-chapter-13.html
 - Privacy Policy: https://ohiobankruptcy.org/privacy.html
+- About ohiobankruptcy.org: https://ohiobankruptcy.org/about.html
+- Credit After Bankruptcy in Ohio: https://ohiobankruptcy.org/credit-after-bankruptcy.html
+- Keep Your Car in Ohio Bankruptcy: https://ohiobankruptcy.org/keep-your-car.html
+- Keep Your House in Ohio Bankruptcy: https://ohiobankruptcy.org/keep-your-house.html
+- Wage Garnishment in Ohio: How to Stop It: https://ohiobankruptcy.org/wage-garnishment.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
